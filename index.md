@@ -68,3 +68,15 @@ One of the most important things to know about this course is that **we'll opt f
 We suggest dedicating 3 to 5 hours of study each week to this course, plus 1.5 hours for the weekly [meetings](#meetings). To frame expectations and decrease overwork, we assign in the [schedule](#schedule) a number of recommended hours to each aspect of the course, and we communicate progress in terms of weekly steps (0-13) toward completing the course, partially because online learning makes time weird for us all, and focusing on anything can be a struggle right now.
 
 Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work, concepts, and comics involved. 
+
+# Comics  
+
+Here's a list of the comics we'll read this term. They're available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/). You are also welcome to read them as ebooks, if you'd prefer. 
+
+* *Ms. Marvel*, Vol. 1: *No Normal* (2014), by G. Willow Wilson, Adrian Alphona, and Jake Wyatt
+* Victor LaValle's *Destroyer* (2017), by Victor LaValle and Dietrich Smith
+* *Monstress*, Vol. 1: *Awakening* (2016), by Marjorie Liu and Sana Takeda
+* *Daytripper* (2010), by Fabio Moon and Gabriel Ba
+* *Special Exits* (2010), by Joyce Farmer
+
+I will also share examples of work by some (or perhaps all) of the following authors during our weekly meetings: Weshoyot Alvitre, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
