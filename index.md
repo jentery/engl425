@@ -71,7 +71,7 @@ Of course, 3 to 5 hours per week is only a guideline. You may find that you need
 
 # Comics  
 
-Here's a list of the comics we'll read this term. They're available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/). You are also welcome to read them as ebooks, if you'd prefer. 
+Here's a list of the comics we'll read this term. They're available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/). You are also welcome to read them as ebooks on a tablet or in your browser, if you'd prefer. You should spend no more than $117 (before taxes) on these books. Purchasing used copies or ebooks, or relying on subscription services, will save you money. (Ebooks may total as little as $47 for this course, saving you up to $70 before taxes.)
 
 * *Ms. Marvel*, Vol. 1: *No Normal* (2014), by G. Willow Wilson, Adrian Alphona, and Jake Wyatt
 * Victor LaValle's *Destroyer* (2017), by Victor LaValle and Dietrich Smith
@@ -79,4 +79,4 @@ Here's a list of the comics we'll read this term. They're available at the [UVic
 * *Daytripper* (2010), by Fabio Moon and Gabriel Ba
 * *Special Exits* (2010), by Joyce Farmer
 
-I will also share examples of work by some (or perhaps all) of the following authors during our weekly meetings: Weshoyot Alvitre, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
+I will also share examples of work by some (or perhaps all) of the following authors during our meetings throughout the term: Weshoyot Alvitre, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
