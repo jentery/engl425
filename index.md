@@ -80,3 +80,7 @@ Here's a list of the comics we'll read this term. They're available at the [UVic
 * *Special Exits* (2010), by Joyce Farmer
 
 I will also share examples of work by some (or perhaps all) of the following authors during our meetings throughout the term: Weshoyot Alvitre, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
+
+# Schedule 
+
+The schedule for this course is coming soon. 
