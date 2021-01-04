@@ -60,3 +60,11 @@ We will meet on **Mondays from 11:30am to 12:50pm**. Please check your email and
 Meetings will combine lecture with group discussion and the occasional breakout room. Please come to each session prepared to discuss the assigned material. We will invite you to comment on the [comics](#comics) we're reading and to talk about them with other people in the class. Your contributions during a given meeting may be communicated through text, audio, and/or video in Zoom. 
 
 A video recording of each meeting will be circulated via Brightspace.
+
+# Workload
+
+One of the most important things to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, then Faith and I will cut materials, including assignments, as we go. We've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.  
+
+We suggest dedicating 3 to 5 hours of study each week to this course, plus 1.5 hours for the weekly [meetings](#meetings). To frame expectations and decrease overwork, we assign in the [schedule](#schedule) a number of recommended hours to each aspect of the course, and we communicate progress in terms of weekly steps (0-13) toward completing the course, partially because online learning makes time weird for us all, and focusing on anything can be a struggle right now.
+
+Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work, concepts, and comics involved. 
