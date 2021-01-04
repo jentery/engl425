@@ -21,6 +21,7 @@ Contents:
 * [Schedule](#schedule)   
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement)   
+* [Prompts](#prompts)  
 
 # Description 
 
