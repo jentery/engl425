@@ -15,9 +15,9 @@ Contents:
 * [Aims](#aims)    
 * [About Us](#about-us)   
 * [Assignments](#assignments) 
-* [Meetings](#meetings)
+* [Meetings](#meetings) 
 * [Workload](#workload)
-* [Materials](#materials)    
+* [Comics](#comics)     
 * [Schedule](#schedule)   
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement)   
@@ -57,6 +57,6 @@ Please note that each prompt affords two ways to respond. You should pick *one* 
 
 We will meet on **Mondays from 11:30am to 12:50pm**. Please check your email and/or Brightspace for the Zoom URL, which will remain the same for the entire term. 
 
-Meetings will combine lecture with group discussion and the occasional breakout room. Please come to each session prepared to discuss the assigned material. We will invite you to comment on the comics we're reading and to talk about them with other people in the class. Your contributions during a given meeting may be communicated through text, audio, and/or video in Zoom. 
+Meetings will combine lecture with group discussion and the occasional breakout room. Please come to each session prepared to discuss the assigned material. We will invite you to comment on the [comics](#comics) we're reading and to talk about them with other people in the class. Your contributions during a given meeting may be communicated through text, audio, and/or video in Zoom. 
 
 A video recording of each meeting will be circulated via Brightspace.
