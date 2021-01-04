@@ -51,4 +51,4 @@ There are no quizzes, exams, discussion forums, or student presentations in this
 
 All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. (See submission links in the [schedule](#schedule).) We cannot accept submissions by email. 
 
-Please note that each prompt affords two ways to respond. You should pick *one* of the two and consider your audience (mentioned in the prompt) as you respond. Not all of the responses are essays. 
+Please note that each prompt affords two ways to respond. You should pick *one* of the two and consider your audience (mentioned in the prompt) as you respond. Not all of the responses are academic essays. 
