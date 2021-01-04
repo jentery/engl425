@@ -15,7 +15,7 @@ Contents:
 * [Aims](#aims)    
 * [About Us](#about-us)   
 * [Assignments](#assignments) 
-* [Structure](#structure) 
+* [Meetings](#meetings)
 * [Workload](#workload)
 * [Materials](#materials)    
 * [Schedule](#schedule)   
@@ -53,10 +53,10 @@ All the [prompts](#prompts) are included in this outline, and due dates are prov
 
 Please note that each prompt affords two ways to respond. You should pick *one* of the two and consider your audience (mentioned in the prompt) as you respond. Not all of the responses are academic essays. 
 
-# Structure
+# Meetings
 
-We will meet on Mondays from 11:30am to 12:50pm. Please check your email and/or Brightspace for the Zoom URL, which will remain the same for the entire term. 
+We will meet on **Mondays from 11:30am to 12:50pm**. Please check your email and/or Brightspace for the Zoom URL, which will remain the same for the entire term. 
 
-Meetings will combine lecture with group discussion and the occasional breakout room. Please come to each session prepared to discuss the assigned material. We will invite you to comment on the comics we're reading and to talk about them with the class. Your contributions may be communicated through text, audio, and/or video in Zoom. 
+Meetings will combine lecture with group discussion and the occasional breakout room. Please come to each session prepared to discuss the assigned material. We will invite you to comment on the comics we're reading and to talk about them with other people in the class. Your contributions during a given meeting may be communicated through text, audio, and/or video in Zoom. 
 
-A video recording of each meeting will be circulated via Brightspace. 
+A video recording of each meeting will be circulated via Brightspace.
