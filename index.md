@@ -93,9 +93,9 @@ There are no prerequisites for this 400-level English course.
 
 ### Brightspace 
 
-We will rely as little as possible on Brightspace for this course. We will not use it for discussions, surveys, or polls, and you won't need it to write or produce any of your assignments. You should be able to find most of what you need here, in this course outline, which---for the sake of access---we copied into Brightspace. This way, you can rely entirely on Brightspace, if you prefer. 
+We will rely as little as possible on Brightspace for this course. We will not use it for discussions, surveys, or polls, and you won't need it to write or produce any of your assignments. You should be able to find most of what you need here, in this course outline, which---for the sake of access---we also copied into Brightspace. This way, you can rely entirely on Brightspace, if you prefer. 
 
-All that said, we will use Brightspace for: 
+We *will* use Brightspace for: 
 
 1. Class announcements, which you may also receive by email (see your Brightspace settings).
 2. Circulating video recordings of weekly Zoom meetings.
