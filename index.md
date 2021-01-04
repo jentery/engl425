@@ -35,3 +35,9 @@ You will learn to:
 3. Identify techniques people use to compose comics and explain why the aesthetics of comics matter today. 
 4. Articulate the relationship between comics and power, including the subversive and normative elements of comics. 
 5. Communicate critically both *about* comics and *with* them. This means you'll treat comics as not only evidence or examples (*about*) but also ways of experiencing and understanding the world (*with*). 
+
+# About Us 
+
+My name is Jentery Sayers (he / him / his; jentery@uvic.ca). I'm a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT) at UVic. I also direct the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. I did my MA and PhD in English at the University of Washington in Seattle, and I grew up in Richmond, Virginia, where I got my BA and BS at Virginia Commonwealth University. I've been at UVic since 2011, and I teach courses on American fiction, media and cultural studies, and experimental prototyping. This is the 35th class I've taught here, but only my third online. I'll be learning a bit as we go. Thanks for your patience.
+
+And my name is Faith Ryan (she / her / hers). I'm a settler on unceded Lekwungen and <u>W̱</u>SÁNEĆ lands, and I am grateful for the years I've been able to study here. I'm a graduate student in English at UVic, and I did my BA at UVic as well. I'm originally from Ogden, Utah, but I spent most of my high school years in the lower mainland BC. I like contemporary Canadian and American fiction and approaching culture, in all its forms, from a disability studies perspective. Feel free to reach out over the term, even if you're unsure whether it's something I can assist you with. If it isn't, then I can point you in the right direction. I hope you enjoy the course! 
