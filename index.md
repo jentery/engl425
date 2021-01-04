@@ -1,6 +1,6 @@
 # Comics and Contemporary America
 
-An online undergraduate course for 40 students 
+An online undergraduate course for 40 students    
 English 425 | Spring 2021 at the University of Victoria   
 Meetings: Mondays, 11:30am - 12:50pm   
 Office Hours: Mondays, 1-2pm  
