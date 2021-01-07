@@ -372,7 +372,7 @@ There are no prerequisites for this 400-level English course.
 
 ### Brightspace 
 
-We will rely as little as possible on Brightspace for this course. We will not use it for discussions, surveys, or polls, and you won't need it to write or produce any of your assignments. You should be able to find most of what you need here, in this course outline, which---for the sake of access---we copied into Brightspace. This way, you can rely entirely on Brightspace, if you prefer it. 
+We will rely as little as possible on Brightspace for this course. We will not use it for discussions, surveys, or polls, and you won't need it to write or produce any of your assignments. You should be able to find most of what you need here, in this syllabus, which---for the sake of access---we copied into Brightspace. This way, you can rely entirely on Brightspace, if you prefer it. 
 
 But we will only use Brightspace for the following, most of which may arrive as emails in your inbox (see your Brightspace settings): 
 
@@ -409,7 +409,8 @@ Throughout the term, we'll request feedback from you on how the course is going.
 
 Please attend the weekly Zoom meetings (Mondays, 11:30am - 12:50pm) and participate in those discussions via text, video, and/or audio. Video recordings of these meetings will be circulated via Brightspace. 
 
-There is no participation mark for this course.   
+There is no participation mark for this course.  
+
 ### Learning Climate  
 
 The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
