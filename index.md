@@ -24,7 +24,7 @@ Contents:
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement)  
 * [Prompts](#prompts)  
-* [Download the Syllabus in PDF](425spring2021.pdf) 
+* [Download this syllabus in PDF](425spring2021.pdf) 
 
 ***
 
