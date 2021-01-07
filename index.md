@@ -316,7 +316,7 @@ During our meeting, we'll talk about comics and culture as:
 
 We'll then consider the five comics we read this term in the context of contemporary America. What values do they rehearse or trouble? What do they record or document? How are they associated with particular groups, practices, or communities? 
 
-Our exercise for this step (conducted during our meeting on the 29th): Select a panel or page from a comic you read. Describe it in a sentence or two. Then explain how your selection and description are also acts of interpretation. 
+Our exercise for this step (conducted during our meeting on the 29th): Select what you consider to be an important panel or page from a comic you read. Describe it in a sentence or two. Then explain how your selection and description are also acts of interpretation. 
 
 ## Step 12 (Apr. 5th): Recap and Revise 
 
