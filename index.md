@@ -1,13 +1,15 @@
 # Comics and Contemporary America
 
-An online undergraduate course for 40 students    
-English 425 | Spring 2021 at the University of Victoria   
-Meetings: Mondays, 11:30am - 12:50pm   
-Office Hours: Mondays, 1-2pm  
+English 425 | Spring 2021 at the University of Victoria
+An online undergraduate course for 40 students       
+Meetings (via Zoom): Mondays, 11:30am - 12:50pm 
+Office Hours: Mondays, 1-2pm and 3:30-4:30pm  
 Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)     
 With Faith Ryan (she / her / hers), teaching assistant  
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
+
+***
 
 Contents: 
 
@@ -17,23 +19,26 @@ Contents:
 * [Assignments](#assignments) 
 * [Meetings](#meetings) 
 * [Workload](#workload)
-* [Comics](#comics)     
+* [Comics](#comics)    
 * [Schedule](#schedule)   
 * [Policies](#policies) 
-* [Territory Acknowledgement](#territory-acknowledgement)   
+* [Territory Acknowledgement](#territory-acknowledgement)  
 * [Prompts](#prompts)  
+* [Download the Syllabus in PDF](425spring2021.pdf) 
+
+***
 
 # Description 
 
-Comics are integral to the study of America and American fiction today. They experiment with representation, play with genre, speak truth to power, and prompt important conversations about fiction's role in memory and culture. We'll discuss these topics and more by engaging the politics and aesthetics of comics and sampling various critical approaches to the combination of words, images, and narrative in contemporary America. You'll learn how comics work and how to write about them for popular and academic audiences. 
+Comics are integral to the study of America and American fiction today. They experiment with representation, play with genre, speak truth to power, and prompt important conversations about art and culture. We'll discuss these topics and more by engaging the politics and aesthetics of 21st-century comics and sampling various critical approaches to them. You'll learn how comics work, why they matter, and how to write about them for popular and academic audiences. 
 
 # Aims 
 
 You will learn to:
 
 1. Demonstrate various strategies for approaching comics. You'll develop a vocabulary for talking about them, too. 
-2. Interpret comics in the context of fiction and contemporary America (2000 to the present). You'll have an opportunity to attend to histories of comics and their genres. 
-3. Identify techniques people use to compose comics and explain why the aesthetics of comics matter today. 
+2. Interpret comics in the context of fiction and contemporary America (2000 to the present). You'll also have an opportunity to attend to histories of comics and their genres. 
+3. Identify techniques people use to craft comics and explain why the aesthetics of comics matter today. 
 4. Articulate the relationship between comics and power, including the subversive and normative elements of comics. 
 5. Communicate critically both *about* comics and *with* them. This means you'll treat comics as not only evidence or examples (*about*) but also ways of experiencing and understanding the world (*with*). 
 
@@ -47,27 +52,27 @@ And my name is Faith Ryan (she / her / hers). I'm a settler on unceded Lekwungen
 
 We are asking you to respond to *four* [prompts](#prompts) this term, and we'll invite you to revise one of those responses. Each response will constitute 25% of your final grade. 
 
-There are no quizzes, exams, discussion forums, or student presentations in this course. There is no participation mark, either. Both of us will grade your responses to the prompts and return feedback via Brightspace. We'll also provide you with tips for responding to each prompt. 
+There are no quizzes, exams, discussion forums, or student presentations in this course. There is no participation mark, either. Both of us will mark your responses to the prompts and provide feedback on your work. 
 
 All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. (See submission links in the [schedule](#schedule).) We cannot accept submissions by email. 
 
-Please note that each prompt affords two ways to respond. You should pick *one* of the two and consider your audience (mentioned in the prompt) as you respond. Not all of the responses are academic essays. 
+Please note that each prompt affords two ways to respond, and not all responses are academic essays. You should pick *one* of the two options and consider your audience as well as the aims (mentioned in the prompt) as you respond. We'll use the aims to mark your responses.
 
 # Meetings
 
-We will meet on **Mondays from 11:30am to 12:50pm**. Please check your email and/or Brightspace for the Zoom URL, which will remain the same for the entire term. 
+We will meet on *Mondays from 11:30am to 12:50pm*. Please check your email and/or Brightspace for the Zoom URL, which will remain the same throughout the entire term. 
 
-Meetings will combine lecture with group discussion and the occasional breakout room. Please come to each session prepared to discuss the assigned material. We will invite you to comment on the [comics](#comics) we're reading and to talk about them with other people in the class. Your contributions during a given meeting may be communicated through text, audio, and/or video in Zoom. 
+Meetings will combine lecture with group discussion and the occasional breakout room. They will also involve exercises (or experiments) in communicating critically *with* and *through* comics (see the [schedule](#schedule) for details). Please come to each session prepared to discuss the assigned material and participate in the exercises. We will invite you to comment on the [comics](#comics) we're reading, talk about them with other people in the class, and share what you cook up during the exercises. Your contributions during a given meeting may be communicated through text, audio, and/or video in Zoom. 
 
-A video recording of each meeting will be circulated via Brightspace.
+A video recording of each meeting will be circulated, with your permission, via Brightspace. 
 
 # Workload
 
-One of the most important things to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, then Faith and I will cut materials, including assignments, as we go. We've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.  
+One of the most important things to know about this course is that *we'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut materials, including assignments, as we go. We've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.  
 
-We suggest dedicating 3 to 5 hours of study each week to this course, plus 1.5 hours for the weekly [meetings](#meetings). To frame expectations and decrease overwork, we assign in the [schedule](#schedule) a number of recommended hours to each aspect of the course, and we communicate progress in terms of weekly steps (0-13) toward completing the course, partially because online learning makes time weird for us all, and focusing on anything can be a struggle right now.
+We suggest dedicating an average of 3 to 5 hours of study each week to this course, plus 1.5 hours for the weekly [meetings](#meetings). To frame expectations and decrease overwork, we assign in the [schedule](#schedule) a number of recommended hours to each week of the course, and we communicate progress in terms of weekly steps (0-14) toward completing the course, partly because online learning makes time weird for us all, and focusing on anything is a struggle during a pandemic.
 
-Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work, concepts, and comics involved. 
+Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the comics and concepts involved. 
 
 # Comics  
 
@@ -79,13 +84,19 @@ Here's a list of the comics we'll read this term. They're available at the [UVic
 * *Daytripper* (2010), by Fabio Moon and Gabriel Ba
 * *Special Exits* (2010), by Joyce Farmer
 
-I will also share examples of work by some (or perhaps all) of the following authors during our meetings throughout the term: Weshoyot Alvitre, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
+You may want to pick up Scott McCloud's *Understanding Comics: The Invisible Art*, too. We'll refer to it here and there throughout the term. 
+
+We will also share examples of work by some (or perhaps all) of the following authors during our meetings: Weshoyot Alvitre, Rosaire Appel, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, John Jennings, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Nick Sousanis, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
+
+Finally, near the end of the term, we'll read Raymond Williams's "The Analysis of Culture" (1961), available via Brightspace in PDF.  
 
 # Schedule
 
-Here's the schedule for the term. We've designed it to scaffold the learning process by presenting the course as a series of 15 steps (0-14), each with instructions and assigned readings, accompanied by a number of recommended hours to spend on the tasks at hand. The final step corresponds with the completion of the course (during UVic's exam period). 
+Here's our schedule for the course. We've designed it to scaffold the learning process by presenting the course as a series of 15 steps (0-14), each with instructions and (where applicable) assigned readings, accompanied by a number of recommended hours to spend on the tasks at hand. The final step corresponds with the completion of the course (during UVic's exam period). 
 
 We will use a Brightspace announcement to notify you of any changes to the schedule. 
+
+Please note: we'll conduct an exercise during most of our meetings. Although these exercises will encourage you to communicate about and with comics (by drawing or doodling, for instance), we by no means expect you to produce something detailed or refined. This is not an art class. Stick figures, simple shapes, and outlines are welcome, and please feel free to use whatever is easiest for you (pencil and paper, software, mouse and screen) when participating. 
 
 ## Step 0 (Jan. 11): Hello! 
 
@@ -110,7 +121,7 @@ This week's step should consume no more than *two hours* of your time outside ou
 Before our meeting on Monday, January 18th, please: 
 
 1. Skim the five [comics](#comics) we're studying this term. There's no need to read them quite yet, but please familiarize yourself with the authors, illustrators, publishers, and book descriptions (the "metadata," if you will, for each comic). 
-2. Identify a comic or two with which you're familiar. Come prepared to talk, if only briefly, about it during our meeting on the 18th. Ideally, it's published in America, written by someone in America, or illustrated by someone in America. (The industry's division of labour is worth noting here. The lone "auteur" model of artistic control and influence rarely, if ever, applies to mainstream comics, which are made by many people.)
+2. Identify a comic or two that's not on our [list](#comics) but with which you're familiar. Maybe you've read only an issue or strip of it. Or perhaps you're familiar with it in a more general sense: as something iconic or popular beyond a particular work. Come prepared to talk, if only briefly, about it during our meeting on the 18th. Ideally, it's published in America, written by someone in America, or illustrated by someone in America. (The industry's division of labour is worth noting here. The lone "auteur" model of artistic control and influence rarely, if ever, applies to mainstream comics, which are made by many people. Sometimes, however, an underground or independent comic is produced by one person. We'll get to that later in the term.)
 
 During our meeting, we'll talk about: 
 
@@ -120,7 +131,7 @@ During our meeting, we'll talk about:
 4. Our working assumptions about comics and contemporary America.
 5. How we might define comics (no small task!). 
 
-Our exercise for this step (conducted during our meeting on the 18th): Determine, by way of examples, when words and images become a comic. What's especially tricky about defining comics? (Inspired by James Sturm.)
+Our exercise for this step (conducted during our meeting on the 18th): Determine, by way of examples, when words and images (or only images?) become a comic. What's especially tricky about defining comics? (Inspired by James Sturm.)
 
 ## Step 2 (Jan. 25): Superhumans and Dual Identities  
 
@@ -128,7 +139,7 @@ This week's step should consume no more than *three hours* of your time outside 
 
 Before our meeting on Monday, January 25th, please: 
 
-1. Read *Ms. Marvel*, Vol. 1: *No Normal*. Take notes as you go, with attention to how the comic communicates dual identities and various aspects of the superhuman, including the depiction of superheroines and superheroes. What makes them "super"?
+1. Read *Ms. Marvel*, Vol. 1: *No Normal*. Take notes as you go, with attention to how the comic communicates dual identities as well as various aspects of the superhuman, including the depiction of superheroines and superheroes. What makes them "super"?
 2. Come prepared to our meeting to talk about the superhuman, dual identities, and *Ms. Marvel*. 
 
 During our meeting, we'll talk about:
@@ -138,7 +149,7 @@ During our meeting, we'll talk about:
 3. What *Ms. Marvel* is doing politically and aesthetically as a comic in the 21st century.
 4. How *Ms. Marvel* re-imagines "superhero comics" and experiments with them. 
 
-Our exercise for this step (conducted during our meeting on the 25th): Use amplification by way of simplification to render a comic book character even more cartoonish. How does such amplification engage the "ordinary" or the superhuman? (Inspired by Charles Sanders Peirce and Scott McCloud.)
+Our exercise for this step (conducted during our meeting on the 25th): Use amplification by way of simplification to render a comic book character even more cartoonish. How does amplification engage the "ordinary" or superhuman? (Inspired by Charles Sanders Peirce and Scott McCloud.)
 
 Content warnings for *Ms. Marvel*: physical violence, identity jokes 
 
@@ -157,8 +168,9 @@ Before our meeting on Monday, February 1st, please: 
 During our meeting, we'll talk about: 
 
 1. How to critically approach popular media, fiction, and culture in the context of comics, from pulps and mainstream entertainment to underground, independent, and alternative comics / "comix." We'll touch on the notion of "hegemony" here, too. 
-2. Examples of how the norms of popular formats and contemporary America are rehearsed, subverted, parodied, and rewritten in comics.
-3. The Comics Code Authority ("Comics Code") of 1954 and its role in interpreting American culture and comics today.    
+2. Examples of how the norms of popular formats and contemporary America are rehearsed, subverted, parodied, and rewritten in comics. We'll survey work by Weshoyot Alvitre, Kyle Baker, the Hernandez brothers, Sigrid Ellis, Roberta Gregory, Stephen Graham Jones, Jack Kirby, Stan Lee, Carla Speed McNeil, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, and Tillie Walden.
+3. The Comics Code Authority ("Comics Code") of 1954 and its role in interpreting American culture and comics today.   
+4. [Dr. Julian Chambliss on the Comic Book Industry](https://www.youtube.com/watch?v=AIgzzIIDGEE&feature=emb_title). 
 
 Our exercise for this step (conducted during our meeting on the 1st): Doodle a comic book character from memory. How does the popular persist through images, including mental ones? (Inspired by Lynda Barry and Ivan Brunetti.)
 
@@ -175,9 +187,11 @@ During our meeting, we'll talk about:
 
 1. How comics adapt other media and formats, and vice versa (novel-to-comic and comic-to-film, for instance).
 2. The "medium specificity" of comics, such as how they are drawn and rely on a grid. 
-3. The intersections of adaptation with race and gender, including histories of stereotypes, racism, and heteropatriarchy in comics. 
+3. The intersections of adaptation with race and gender, including histories of stereotypes, racism, and heteropatriarchy in comics. We'll look at John Jennings's work here. 
 4. What Victor LaValle's *Destroyer* is doing politically and aesthetically with adaptation and comics in the 21st century. (We'll touch on *Ms. Marvel*, too, if we have the time.)
 5. The particulars of *Destroyer*'s relationship with *Frankenstein; or, The Modern Prometheus*. 
+
+During this week, we would also like to screen [*White Scripts and Black Supermen: Black Masculinities in Comic Books](https://vimeo.com/ondemand/whitescriptsblacksuperme),* which was produced, written, and directed by Jonathan Gayles. (Details about the screening are coming soon.)
 
 Our exercise for this step (conducted during our meeting on the 8th): Add a transition to a comic by sketching a new panel next to an existing one. Types of transitions in comics include moment-to-moment, action-to-action, subject-to-subject, scene-to-scene, aspect-to-aspect, and non-sequitur (see McCloud's *Understanding Comics*, pages 70-74). What is *not* shown or communicated in the transition between panels, and what are readers left to imagine? (Inspired by Hillary Chute and Scott McCloud.)
 
@@ -396,7 +410,6 @@ Throughout the term, we'll request feedback from you on how the course is going.
 Please attend the weekly Zoom meetings (Mondays, 11:30am - 12:50pm) and participate in those discussions via text, video, and/or audio. Video recordings of these meetings will be circulated via Brightspace. 
 
 There is no participation mark for this course.   
-
 ### Learning Climate  
 
 The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
@@ -442,6 +455,22 @@ As researchers and instructors who have the privilege to live and work as guests
 # Prompts 
 
 The prompts for this course are coming soon. 
+
+### Prompt 1 
+
+Coming soon. 
+
+### Prompt 2 
+
+Coming soon. 
+
+### Prompt 3 
+
+Coming soon. 
+
+### Prompt 4 
+
+Coming soon. 
 
 ***
 
