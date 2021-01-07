@@ -88,7 +88,7 @@ You may want to pick up Scott McCloud's *Understanding Comics: The Invisible Art
 
 We will also share examples of work by some (or perhaps all) of the following people during our meetings: Weshoyot Alvitre, Rosaire Appel, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, John Jennings, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, Erik Loyer, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Nick Sousanis, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
 
-Finally, near the end of the term, we'll read Raymond Williams's "The Analysis of Culture" (1961), available via Brightspace in PDF; and, in February, we hope to screen, [*White Scripts and Black Supermen: Black Masculinities in Comic Books*](https://vimeo.com/ondemand/whitescriptsblacksuperme), which was produced, written, and directed by Jonathan Gayles.
+Finally, near the end of the term, we'll read Raymond Williams's "The Analysis of Culture" (1961), available via Brightspace in PDF; in March, we'll watch Erik Loyer's ["Timeframing: Temporal Aesthetics in Digital Comics"](https://www.youtube.com/watch?v=GmJb3a2nOao&feature=emb_title) (2020); and, in February, we hope to screen, [*White Scripts and Black Supermen: Black Masculinities in Comic Books*](https://vimeo.com/ondemand/whitescriptsblacksuperme), which was produced, written, and directed by Jonathan Gayles.
 
 # Schedule
 
