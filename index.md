@@ -269,7 +269,7 @@ This week's step should consume no more than *five hours* of your time outside o
 
 Before our meeting on March 15th, please: 
 
-1. Respond to [Prompt 3](#prompt-3) and submit your response via Brightspace. 
+1. Respond to [Prompt 3](#prompt-3) and submit your response via Brightspace (link coming soon). 
 2. Email us any questions or concerns you have you about [Prompt 3](#prompt-3), especially if you would like us to clarify something in the prompt.  
 
 During our meeting, we'll talk about: 
