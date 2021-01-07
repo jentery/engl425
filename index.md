@@ -326,7 +326,7 @@ This week's step should consume no more than *four hours* of your time.
 
 Before our meeting on Monday, April 5th, please: 
 
-1. Revise your response to [Prompt 1](#prompt-1), [Prompt 2](#prompt-2), *or* [Prompt 3](#prompt-3) and submit it via Brightspace. This is optional, and you can revise only one response. If you do revise, then we recommend reviewing the feedback we provided on your initial response. 
+1. Revise your response to [Prompt 1](#prompt-1), [Prompt 2](#prompt-2), *or* [Prompt 3](#prompt-3) and submit it via Brightspace (link coming soon). This is optional, and you can revise only one response. If you do revise, then we recommend reviewing the feedback we provided on your initial response. 
 2. Email us any questions or concerns you have you about the revision process. 
 
 During our meeting, we'll talk about: 
