@@ -356,7 +356,7 @@ It's the examination period at UVic, so we don't have a meeting this week.
 
 For your final in this course, please: 
 
-1. Respond to [Prompt 4](#prompt-4) and submit your response via Brightspace by *Monday, April 19th at 5pm*. 
+1. Respond to [Prompt 4](#prompt-4) and submit your response via Brightspace (link coming soon) by *Monday, April 19th at 5pm*. 
 2. Email us any questions or concerns you have you about [Prompt 4](#prompt-4), especially if you would like us to clarify something in the prompt. 
 
 This week's step (the final) should consume no more than *five hours* of your time.
