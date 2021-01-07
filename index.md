@@ -247,7 +247,7 @@ This week's step should consume no more than *four hours* of your time outside o
 
 Before our meeting on Monday, March 8th, please: 
 
-1. Read *Daytripper* and take notes on its treatment of time, including when it feels "meta" (how it reflects or comments on its status as a comic, for instance). You may also want to recall our recent discussion of fantasy and, earlier in the term, our conversations about magic and technology in superhero comics. What strikes you as magical or fantastical about this comic?  
+1. Read *Daytripper* and take notes on its treatment of time, including when it feels "meta" (how it reflects or comments on its status as a comic, for instance). You may also want to recall our recent discussion of fantasy and, earlier in the term, our conversations about magic and technology in superhero comics. What about this comic strikes you as magical or fantastical?  
 2. Come prepared to our meeting to talk about time in the comic and its meta elements. 
 3. Watch Erik Loyer's ["Timeframing: Temporal Aesthetics in Digital Comics"](https://www.youtube.com/watch?v=GmJb3a2nOao&feature=emb_title) and take notes on his remarks about time in digital and print comics. 
 
