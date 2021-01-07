@@ -50,7 +50,7 @@ And my name is Faith Ryan (she / her / hers). I'm a settler on unceded Lekwungen
 
 # Assignments
 
-We are asking you to respond to *four* [prompts](#prompts) this term, and we'll invite you to revise one of those responses. Each response will constitute 25% of your final grade. 
+We are asking you to respond to four [prompts](#prompts) this term, and we'll invite you to revise one of those responses. Each response will constitute 25% of your final grade. 
 
 There are no quizzes, exams, discussion forums, or student presentations in this course. There is no participation mark, either. Both of us will mark your responses to the prompts and provide feedback on your work. 
 
