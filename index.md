@@ -344,7 +344,7 @@ Before our meeting on Monday, April 12th, please: 
 
 1. Identify a comic you'd like to share with other people in this class. It should be from the 21st century and somehow relevant to contemporary America (published in America, written by someone in America, or illustrated by someone in America, for instance). 
 2. Acquire access to that comic. Perhaps you already own it, a friend has a copy you can borrow, or you can get it from a library, subscription service, or bookstore. 
-3. Reread or skim the comic and cook up a sentence or two about it that you want to share with others in this class. How, for example, is it relevant to this course and what we've talked about this term? Or why should people read it (or not read it)?
+3. Reread or skim the comic and then write a sentence about it that you want to share with others in this class. How, for example, is it relevant to this course and what we've talked about this term? Or, why should people read it (or not read it)?
 
 During our meeting, we'll share comics, talk about them, and discuss what they bring to the table of "Comics and Contemporary America." We'll also complete course experience surveys.  
 
