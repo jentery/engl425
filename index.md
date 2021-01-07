@@ -209,7 +209,7 @@ This week's step should consume no more than *five hours* of your time outside o
 
 By 5pm on Monday, February 22nd, please: 
 
-1. Respond to [Prompt 2](#prompt-2) and submit your response via Brightspace. 
+1. Respond to [Prompt 2](#prompt-2) and submit your response via Brightspace (link coming soon). 
 2. Email us any questions or concerns you have you about [Prompt 2](#prompt-2), especially if you would like us to clarify something in the prompt.  
 
 During our meeting, we'll talk about: 
