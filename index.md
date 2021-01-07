@@ -1,11 +1,11 @@
 # Comics and Contemporary America
 
-English 425 | Spring 2021 at the University of Victoria  
+English 425 | Spring 2021 at the University of Victoria    
 An online undergraduate course for 40 students       
 Meetings (via Zoom): Mondays, 11:30am - 12:50pm   
-Office Hours: Mondays, 1-2pm and 3:30-4:30pm   
-Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)     
-With Faith Ryan (she / her / hers), teaching assistant  
+Office Hours: Mondays, 1-2pm and 3:30-4:30pm    
+Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)      
+With Faith Ryan (she / her / hers), teaching assistant   
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
@@ -56,7 +56,7 @@ There are no quizzes, exams, discussion forums, or student presentations in this
 
 All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. (See submission links in the [schedule](#schedule).) We cannot accept submissions by email. 
 
-Please note that each prompt affords two ways to respond, and not all responses are academic essays. You should pick *one* of the two options and consider your audience as well as the aims (mentioned in the prompt) as you respond. We'll use the aims to mark your responses.
+Please note that each prompt affords two ways to respond, and not all responses are academic essays. You should pick *one* of the two options in the prompt and then consider your audience as well as the assignment's aims (mentioned in the prompt) as you respond. We'll use the aims as guides to mark your responses.
 
 # Meetings
 
@@ -88,7 +88,7 @@ You may want to pick up Scott McCloud's *Understanding Comics: The Invisible Art
 
 We will also share examples of work by some (or perhaps all) of the following authors during our meetings: Weshoyot Alvitre, Rosaire Appel, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, John Jennings, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Nick Sousanis, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
 
-Finally, near the end of the term, we'll read Raymond Williams's "The Analysis of Culture" (1961), available via Brightspace in PDF.  
+Finally, near the end of the term, we'll read Raymond Williams's "The Analysis of Culture" (1961), available via Brightspace in PDF; and, in February, we hope to screen, [*White Scripts and Black Supermen: Black Masculinities in Comic Books*](https://vimeo.com/ondemand/whitescriptsblacksuperme), which was produced, written, and directed by Jonathan Gayles.
 
 # Schedule
 
@@ -191,7 +191,7 @@ During our meeting, we'll talk about:
 4. What Victor LaValle's *Destroyer* is doing politically and aesthetically with adaptation and comics in the 21st century. (We'll touch on *Ms. Marvel*, too, if we have the time.)
 5. The particulars of *Destroyer*'s relationship with *Frankenstein; or, The Modern Prometheus*. 
 
-During this week, we would also like to screen [*White Scripts and Black Supermen: Black Masculinities in Comic Books](https://vimeo.com/ondemand/whitescriptsblacksuperme),* which was produced, written, and directed by Jonathan Gayles. (Details about the screening are coming soon.)
+During this week, we would also like to screen [*White Scripts and Black Supermen: Black Masculinities in Comic Books*](https://vimeo.com/ondemand/whitescriptsblacksuperme), which was produced, written, and directed by Jonathan Gayles. (Details about the screening are coming soon.)
 
 Our exercise for this step (conducted during our meeting on the 8th): Add a transition to a comic by sketching a new panel next to an existing one. Types of transitions in comics include moment-to-moment, action-to-action, subject-to-subject, scene-to-scene, aspect-to-aspect, and non-sequitur (see McCloud's *Understanding Comics*, pages 70-74). What is *not* shown or communicated in the transition between panels, and what are readers left to imagine? (Inspired by Hillary Chute and Scott McCloud.)
 
