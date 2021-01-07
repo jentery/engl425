@@ -180,7 +180,7 @@ This week's step should consume no more than *three hours* of your time outside 
 
 Before our meeting on Monday, February 8th, please: 
 
-1. Read Victor LaValle's *Destroyer* and take notes as you go. Attend to how the comic adapts Mary Shelley's *Frankenstein; or, The Modern Prometheus* (or, if you've not read it, then rely on your impressions of Shelley's novel and/or accounts of Frankenstein's creature in popular culture). Also note how race and gender operate in the novel and its commentary on contemporary America. You may also wish to recall how *Ms. Marvel* engages race and gender. 
+1. Read Victor LaValle's *Destroyer* and take notes as you go. Attend to how the comic adapts Mary Shelley's *Frankenstein; or, The Modern Prometheus* (or, if you've not read it, then rely on your impressions of Shelley's novel and/or accounts of Frankenstein's creature in popular culture). Also note how race and gender operate in the novel and its commentary on contemporary America. You may want to recall how *Ms. Marvel* engages race and gender, too. 
 2. Come prepared to talk about adaptation, gender, and race in LaValle's *Destroyer* during our February 8th meeting.  
 
 During our meeting, we'll talk about: 
