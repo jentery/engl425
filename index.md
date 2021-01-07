@@ -259,7 +259,7 @@ During our meeting, we'll talk about:
 
 Our exercise for this step (conducted during our meeting on the 8th): Pick a serialized comic that does not unfold chronologically. Now describe or sketch the plot in chronological order. You might even create a timeline for the series, if you wish. What is lost and gained when rendering it chronological? What are the comic's key moments? (Inspired by Patrick Welch.)
 
-Content warning for *Daytripper*: death, alcohol, partial nudity
+Content warnings for *Daytripper*: death, alcohol, partial nudity
 
 ## Step 9 (Mar. 15): Lettering and Colour 
 
@@ -297,7 +297,7 @@ During our meeting, we'll talk about:
 
 Our exercise for this step (conducted during our meeting on the 22nd): Describe or sketch yourself as a character in a graphic memoir. Then, in a sentence or two, tell readers what the memoir is about. Whose account is it, for instance, and of what? How does imagining yourself in a memoir shape your take on graphic memoir in general?  
 
-Content warning for *Special Exits*: death, illness, nudity, difficult conversations with parents 
+Content warnings for *Special Exits*: death, illness, nudity, difficult conversations with parents 
 
 ## Step 11 (Mar. 29): Comics and/as American Culture
 
