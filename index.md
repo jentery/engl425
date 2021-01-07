@@ -161,7 +161,7 @@ This week's step should consume no more than *five hours* of your time outside o
 
 Before our meeting on Monday, February 1st, please: 
 
-1. Respond to [Prompt 1](#prompt-1) and submit your response via Brightspace. 
+1. Respond to [Prompt 1](#prompt-1) and submit your response via Brightspace (link coming soon).
 2. Email us any questions or concerns you have you about [Prompt 1](#prompt-1), especially if you would like us to clarify something in the prompt. 
 3. Come prepared to our meeting to talk about what the "popular" in popular media, fiction, or culture means to you.  
 
