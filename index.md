@@ -191,7 +191,7 @@ During our meeting, we'll talk about:
 4. What Victor LaValle's *Destroyer* is doing politically and aesthetically with adaptation and comics in the 21st century. (We'll touch on *Ms. Marvel*, too, if we have the time.)
 5. The particulars of *Destroyer*'s relationship with *Frankenstein; or, The Modern Prometheus*. 
 
-During this week, we would also like to screen [*White Scripts and Black Supermen: Black Masculinities in Comic Books*](https://vimeo.com/ondemand/whitescriptsblacksuperme), which was produced, written, and directed by Jonathan Gayles. (Details about the screening are coming soon.)
+During this week, we would also like to screen Gayles's [*White Scripts and Black Supermen: Black Masculinities in Comic Books*](https://vimeo.com/ondemand/whitescriptsblacksuperme). (Details about this potential screening are coming soon.)
 
 Our exercise for this step (conducted during our meeting on the 8th): Add a transition to a comic by sketching a new panel next to an existing one. Types of transitions in comics include moment-to-moment, action-to-action, subject-to-subject, scene-to-scene, aspect-to-aspect, and non-sequitur (see McCloud's *Understanding Comics*, pages 70-74). What is *not* shown or communicated in the transition between panels, and what are readers left to imagine? (Inspired by Hillary Chute and Scott McCloud.)
 
