@@ -249,11 +249,12 @@ Before our meeting on Monday, March 8th, please: 
 
 1. Read *Daytripper* and take notes on its treatment of time, including when it feels "meta" (how it reflects or comments on its status as a comic, for instance). You may also want to recall our recent discussion of fantasy and, earlier in the term, our conversations about magic and technology in superhero comics. What strikes you as magical or fantastical about this comic?  
 2. Come prepared to our meeting to talk about time in the comic and its meta elements. 
+3. Watch Erik Loyer's ["Timeframing: Temporal Aesthetics in Digital Comics"](https://www.youtube.com/watch?v=GmJb3a2nOao&feature=emb_title) and take notes on his remarks about time in digital and print comics. 
 
 During our meeting, we'll talk about: 
 
 1. The meta elements of comics (such as formal experimentation and authorial or reader awareness) as well as metacomics as a genre, including work by Emil Ferris and Chris Ware. 
-2. How *Daytripper* approaches time and mortality as both themes and devices. (Note that it was published serially as ten issues or "chapters.")
+2. How *Daytripper* approaches time and mortality as both themes and devices. (Note that it was published serially as ten issues or "chapters.") We'll look to Loyer's work here, too, and draw some examples from webcomics. 
 3. Why a Brazilian work (Moon and Bá are from São Paulo) matters for conversations about American culture and comics, including other comics in this course. (If we have time, then we might touch on comics as "world literature.")
 
 Our exercise for this step (conducted during our meeting on the 8th): Pick a serialized comic that does not unfold chronologically. Now describe or sketch the plot in chronological order. You might even create a timeline for the series, if you wish. What is lost and gained when rendering it chronological? What are the comic's key moments? (Inspired by Patrick Welch.)
