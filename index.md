@@ -275,7 +275,7 @@ Before our meeting on March 15th, please: 
 During our meeting, we'll talk about: 
 
 1. Material from previous steps that we've failed to address due to the pressures of time and online learning. 
-2. The important roles that lettering and colour play in interpreting comics as fiction, with examples drawn from works such as *Asterios Polyp* and *Saga*. 
+2. The important roles that lettering and colour play in interpreting comics as fiction, with examples drawn from works such as *Asterios Polyp*, *The Wicked + the Divine*, and *Saga*.  
 3. What lettering and colour have to do with studies of American culture. 
 
 Our exercise for this step (conducted during our meeting on the 15th): Change the lettering of a panel to purposefully alter how it would be interpreted. Try a style or approach that's believable, rather than one that's unlikely or absurd. How is text also an image? (Inspired by Will Eisner and Hassan Otsmane-Elhaou.)
