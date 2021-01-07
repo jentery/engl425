@@ -170,7 +170,7 @@ During our meeting, we'll talk about:
 1. How to critically approach popular media, fiction, and culture in the context of comics, from pulps and mainstream entertainment to underground, independent, and alternative comics / "comix." We'll touch on the notion of "hegemony" here, too. 
 2. Examples of how the norms of popular formats and contemporary America are rehearsed, subverted, parodied, and rewritten in comics. We'll survey work by Weshoyot Alvitre, Kyle Baker, the Hernandez brothers, Sigrid Ellis, Roberta Gregory, Stephen Graham Jones, Jack Kirby, Stan Lee, Carla Speed McNeil, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, and Tillie Walden.
 3. The Comics Code Authority ("Comics Code") of 1954 and its role in interpreting American culture and comics today.   
-4. The video, ["Dr. Julian Chambliss on the Comic Book Industry"](https://www.youtube.com/watch?v=AIgzzIIDGEE&feature=emb_title). 
+4. The video, ["Dr. Julian Chambliss on the Comic Book Industry."](https://www.youtube.com/watch?v=AIgzzIIDGEE&feature=emb_title)
 
 Our exercise for this step (conducted during our meeting on the 1st): Doodle a comic book character from memory. How does the popular persist through images, including mental ones? (Inspired by Lynda Barry and Ivan Brunetti.)
 
