@@ -81,11 +81,276 @@ Here's a list of the comics we'll read this term. They're available at the [UVic
 
 I will also share examples of work by some (or perhaps all) of the following authors during our meetings throughout the term: Weshoyot Alvitre, Kyle Baker, Lynda Barry, Alison Bechdel, Charles Burns, Emily Carroll, Kelly Sue DeConnick, Will Eisner, Sigrid Ellis, Emil Ferris, Matt Fraction, Neil Gaiman, Kieron Gillen, Roberta Gregory, Joy Harjo, the Hernandez brothers, Stephen Graham Jones, Tom King, Jack Kirby, Stan Lee, Jeff Lemire, David Mazzuchelli, Scott McCloud, Jamie McKelvie, Carla Speed McNeil, Alan Moore, Robert Morales, Brennan Lee Mulligan, Molly Ostertag, Greg Rucka, Gail Simone, Art Spiegelman, Fiona Staples, Brian K. Vaughan, Tillie Walden, Chris Ware, Bill Watterson, Delicia Williams, and Gene Luen Yang.
 
-# Schedule 
+# Schedule
 
-The schedule for this course is coming soon. 
+Here's the schedule for the term. We've designed it to scaffold the learning process by presenting the course as a series of 15 steps (0-14), each with instructions and assigned readings, accompanied by a number of recommended hours to spend on the tasks at hand. The final step corresponds with the completion of the course (during UVic's exam period). 
+
+We will use a Brightspace announcement to notify you of any changes to the schedule. 
+
+## Step 0 (Jan. 11): Hello! 
+
+This week's step should consume no more than *90 minutes* of your time outside our weekly meeting. 
+
+Before or just after our first meeting on Monday, January 11th, please: 
+
+1. Take a moment to read the entire course outline, including all the policies as well as the steps (0-14) outlined in this schedule. 
+2. Email us any questions or concerns you have about the course. You are also welcome to make an appointment.  
+3. Purchase or acquire the [comics](#comics) for this course. There should be five books: *Ms. Marvel* (Vol. 1), Victor LaValle’s *Destroyer*, *Monstress* (Vol. 1), *Daytripper*, and *Special Exits*. 
+
+During our meeting, we'll: 
+
+1. Introduce ourselves. 
+2. Review the course outline. 
+3. "Stage" the course material with a brief discussion of why we're reading comics in the context of contemporary American fiction and culture.  
+
+## Step 1 (Jan. 18): Terms, Techniques, and Histories 
+
+This week's step should consume no more than *two hours* of your time outside our weekly meeting. 
+
+Before our meeting on Monday, January 18th, please: 
+
+1. Skim the five [comics](#comics) we're studying this term. There's no need to read them quite yet, but please familiarize yourself with the authors, illustrators, publishers, and book descriptions (the "metadata," if you will, for each comic). 
+2. Identify a comic or two with which you're familiar. Come prepared to talk, if only briefly, about it during our meeting on the 18th. Ideally, it's published in America, written by someone in America, or illustrated by someone in America. (The industry's division of labour is worth noting here. The lone "auteur" model of artistic control and influence rarely, if ever, applies to mainstream comics, which are made by many people.)
+
+During our meeting, we'll talk about: 
+
+1. Terms (such as grid, panel, gutter, and caption as well as strip, book, webcomic, and graphic novel) used to craft and study comics.
+2. Some histories of comics (starting with Hogarth's 18th-century engravings and Töpffer's 19th-century comic strips). 
+3. Some techniques (like scripts, thumbnails, roughs, inking, and lettering) used to craft comics.
+4. Our working assumptions about comics and contemporary America.
+5. How we might define comics (no small task!). 
+
+Our exercise for this step (conducted during our meeting on the 18th): Determine, by way of examples, when words and images become a comic. What's especially tricky about defining comics? (Inspired by James Sturm.)
+
+## Step 2 (Jan. 25): Superhumans and Dual Identities  
+
+This week's step should consume no more than *three hours* of your time outside our weekly meeting. 
+
+Before our meeting on Monday, January 25th, please: 
+
+1. Read *Ms. Marvel*, Vol. 1: *No Normal*. Take notes as you go, with attention to how the comic communicates dual identities and various aspects of the superhuman, including the depiction of superheroines and superheroes. What makes them "super"?
+2. Come prepared to our meeting to talk about the superhuman, dual identities, and *Ms. Marvel*. 
+
+During our meeting, we'll talk about:
+
+1. The superhuman as a genre ("superhero comics" and, for instance, Superman's debut in *Action Comics* #1 in 1938).
+2. The superhuman's relation to norms and power (such as its relation to the state, magic, technology, and "ordinary" abilities).
+3. What *Ms. Marvel* is doing politically and aesthetically as a comic in the 21st century.
+4. How *Ms. Marvel* re-imagines "superhero comics" and experiments with them. 
+
+Our exercise for this step (conducted during our meeting on the 25th): Use amplification by way of simplification to render a comic book character even more cartoonish. How does such amplification engage the "ordinary" or the superhuman? (Inspired by Charles Sanders Peirce and Scott McCloud.)
+
+Content warnings for *Ms. Marvel*: physical violence, identity jokes 
+
+## Step 3 (Feb. 1): Popular Media, Fiction, and Culture
+
+Please note: *Your response to Prompt 1 is due by 11:30am on Monday, February 1st.* 
+
+This week's step should consume no more than *five hours* of your time outside our weekly meeting. 
+
+Before our meeting on Monday, February 1st, please: 
+
+1. Respond to [Prompt 1](#prompt-1) and submit your response via Brightspace. 
+2. Email us any questions or concerns you have you about [Prompt 1](#prompt-1), especially if you would like us to clarify something in the prompt. 
+3. Come prepared to our meeting to talk about what the "popular" in popular media, fiction, or culture means to you.  
+
+During our meeting, we'll talk about: 
+
+1. How to critically approach popular media, fiction, and culture in the context of comics, from pulps and mainstream entertainment to underground, independent, and alternative comics / "comix." We'll touch on the notion of "hegemony" here, too. 
+2. Examples of how the norms of popular formats and contemporary America are rehearsed, subverted, parodied, and rewritten in comics.
+3. The Comics Code Authority ("Comics Code") of 1954 and its role in interpreting American culture and comics today.    
+
+Our exercise for this step (conducted during our meeting on the 1st): Doodle a comic book character from memory. How does the popular persist through images, including mental ones? (Inspired by Lynda Barry and Ivan Brunetti.)
+
+## Step 4 (Feb. 8): Adaptation, Race, and Gender 
+
+This week's step should consume no more than *three hours* of your time outside our weekly meeting. 
+
+Before our meeting on Monday, February 8th, please: 
+
+1. Read Victor LaValle's *Destroyer* and take notes as you go. Attend to how the comic adapts Mary Shelley's *Frankenstein; or, The Modern Prometheus* (or, if you've not read it, then rely on your impressions of Shelley's novel and/or accounts of Frankenstein's creature in popular culture). Also note how race and gender operate in the novel and its commentary on contemporary America. You may also wish to recall how *Ms. Marvel* engages race and gender. 
+2. Come prepared to talk about adaptation, gender, and race in LaValle's *Destroyer* during our February 8th meeting.  
+
+During our meeting, we'll talk about: 
+
+1. How comics adapt other media and formats, and vice versa (novel-to-comic and comic-to-film, for instance).
+2. The "medium specificity" of comics, such as how they are drawn and rely on a grid. 
+3. The intersections of adaptation with race and gender, including histories of stereotypes, racism, and heteropatriarchy in comics. 
+4. What Victor LaValle's *Destroyer* is doing politically and aesthetically with adaptation and comics in the 21st century. (We'll touch on *Ms. Marvel*, too, if we have the time.)
+5. The particulars of *Destroyer*'s relationship with *Frankenstein; or, The Modern Prometheus*. 
+
+Our exercise for this step (conducted during our meeting on the 8th): Add a transition to a comic by sketching a new panel next to an existing one. Types of transitions in comics include moment-to-moment, action-to-action, subject-to-subject, scene-to-scene, aspect-to-aspect, and non-sequitur (see McCloud's *Understanding Comics*, pages 70-74). What is *not* shown or communicated in the transition between panels, and what are readers left to imagine? (Inspired by Hillary Chute and Scott McCloud.)
+
+Content warnings for Victor LaValle's *Destroyer*: racism, police brutality, physical violence, gore 
+
+## Step 5 (Feb. 15): Take a Break 
+
+We do not meet this week. It's reading break. Enjoy it! 
+
+## Step 6 (Feb. 22): Art and Literature 
+
+Please note: *Your response to Prompt 2 is due by 5pm on Monday, February 22nd.* 
+
+This week's step should consume no more than *five hours* of your time outside our weekly meeting. 
+
+By 5pm on Monday, February 22nd, please: 
+
+1. Respond to [Prompt 2](#prompt-2) and submit your response via Brightspace. 
+2. Email us any questions or concerns you have you about [Prompt 2](#prompt-2), especially if you would like us to clarify something in the prompt.  
+
+During our meeting, we'll talk about: 
+
+1. Material from previous steps that we've failed to address due to the pressures of time and online learning. 
+2. How comics encourage us to engage, or even rethink, the notions of art and literature. 
+3. Examples of art comics and literary comics, such as *RAW* (1980-92), Bechdel's *Fun Home* (2006), and abstract comics by Rosaire Appel. 
+4. How the course is going, what's working, and what we may need to change.  
+
+Our exercise for this step (conducted during our meeting on the 22nd): Change the word-image relation within a panel of a comic. When and why are particular word-image relationships deemed to be literary or artistic? (Inspired by Christian Hill and Scott McCloud.)
+
+## Step 7 (Mar. 1): Horror and Fantasy
+
+This week's step should consume no more than *three hours* of your time outside our weekly meeting. 
+
+Before our meeting on Monday, March 1st, please: 
+
+1. Read *Monstress*, Vol. 1: *Awakening*. Take notes as you go. Recall our discussions of race, gender, the superhuman, and popular culture while also attending to the comic's horror and fantasy elements. How would you describe the comic as either horror or fantasy? 
+2. Come prepared to our meeting to talk about horror and fantasy in the comic.  
+
+During our meeting, we'll talk about: 
+
+1. Horror as a genre of comics, including its depictions of monstrosity and relationship to dread. 
+2. Fantasy as a genre of comics, including its use of worldbuilding and conjecture. 
+3. What *Monstress* and its matriarchy are doing politically and aesthetically in the context of genre and American culture.  
+4. How *Monstress* also draws from manga, Westerns, and war comics. 
+
+Our exercise for this step (conducted during our meeting on the 1st): Change the "shot" (perspective or camera) of a panel by "zooming" in on it and also "zooming" out on it. This should result in two new panels, both of which change the framing of the original panel. How does zooming shape feelings of horror and the sense of fantasy? (Inspired by Eric Hayot and Patrick Welch.)
+
+Content warnings for *Monstress*: death, gore, torture, physical violence, sexual violence
+
+## Step 8 (Mar. 8): Meta Time 
+
+This week's step should consume no more than *four hours* of your time outside our weekly meeting. 
+
+Before our meeting on Monday, March 8th, please: 
+
+1. Read *Daytripper* and take notes on its treatment of time, including when it feels "meta" (how it reflects or comments on its status as a comic, for instance). You may also want to recall our recent discussion of fantasy and, earlier in the term, our conversations about magic and technology in superhero comics. What strikes you as magical or fantastical about this comic?  
+2. Come prepared to our meeting to talk about time in the comic and its meta elements. 
+
+During our meeting, we'll talk about: 
+
+1. The meta elements of comics (such as formal experimentation and authorial or reader awareness) as well as metacomics as a genre, including work by Emil Ferris and Chris Ware. 
+2. How *Daytripper* approaches time and mortality as both themes and devices. (Note that it was published serially as ten issues or "chapters.")
+3. Why a Brazilian work (Moon and Bá are from São Paulo) matters for conversations about American culture and comics, including other comics in this course. (If we have time, then we might touch on comics as "world literature.")
+
+Our exercise for this step (conducted during our meeting on the 8th): Pick a serialized comic that does not unfold chronologically. Now describe or sketch the plot in chronological order. You might even create a timeline for the series, if you wish. What is lost and gained when rendering it chronological? What are the comic's key moments? (Inspired by Patrick Welch.)
+
+Content warning for *Daytripper*: death, alcohol, partial nudity
+
+## Step 9 (Mar. 15): Lettering and Colour 
+
+Please note: *Your response to Prompt 3 is due by 11:30am on Monday, March 15th.* 
+
+This week's step should consume no more than *five hours* of your time outside our weekly meeting.
+
+Before our meeting on March 15th, please: 
+
+1. Respond to [Prompt 3](#prompt-3) and submit your response via Brightspace. 
+2. Email us any questions or concerns you have you about [Prompt 3](#prompt-3), especially if you would like us to clarify something in the prompt.  
+
+During our meeting, we'll talk about: 
+
+1. Material from previous steps that we've failed to address due to the pressures of time and online learning. 
+2. The important roles that lettering and colour play in interpreting comics as fiction, with examples drawn from works such as *Asterios Polyp* and *Saga*. 
+3. What lettering and colour have to do with studies of American culture. 
+
+Our exercise for this step (conducted during our meeting on the 15th): Change the lettering of a panel to purposefully alter how it would be interpreted. Try a style or approach that's believable, rather than one that's unlikely or absurd. How is text also an image? (Inspired by Will Eisner and Hassan Otsmane-Elhaou.)
+
+## Step 10 (Mar. 22): Graphic Memoir
+
+This week's step should consume no more than *four hours* of your time.
+
+Before our meeting on Monday, March 22nd, please: 
+
+1. Read *Special Exits* and take notes. Based on this comic, what might be some elements or conventions of graphic memoir? 
+2. Come to our meeting prepared to talk about graphic memoir and *Special Exits*. 
+
+During our meeting, we'll talk about: 
+
+1. Graphic memoir as a genre, including examples such as *Maus* and *Dragon Hoops*. 
+2. The relationship between graphic memoir, history (including recordings and evidence), and fiction. 
+3. What *Special Exits* is doing politically and aesthetically with graphic memoir in the 21st century.
+
+Our exercise for this step (conducted during our meeting on the 22nd): Describe or sketch yourself as a character in a graphic memoir. Then, in a sentence or two, tell readers what the memoir is about. Whose account is it, for instance, and of what? How does imagining yourself in a memoir shape your take on graphic memoir in general?  
+
+Content warning for *Special Exits*: death, illness, nudity, difficult conversations with parents 
+
+## Step 11 (Mar. 29): Comics and/as American Culture
+
+This week's step should consume no more than *four hours* of your time.
+
+Before our meeting on Monday, March 29th, please: 
+
+1. Review all the comics we read this term. What about them (or at least one of them) sticks with you? What have you learned most from them about comics and contemporary America? 
+2. Read "The Analysis of Culture" (1961), by Raymond Williams. Take notes on how Williams categorizes culture and then engages those categories. Note, too, his remarks about "selection" and "interpretation."
+
+During our meeting, we'll talk about comics and culture as: 
+
+1. Ideals and values. 
+2. Records and evidence. 
+3. Communities, practices, and ways of living.
+
+We'll then consider the five comics we read this term in the context of contemporary America. What values do they rehearse or trouble? What do they record or document? How are they associated with particular groups, practices, or communities? 
+
+Our exercise for this step (conducted during our meeting on the 29th): Select a panel or page from a comic you read. Describe it in a sentence or two. Then explain how your selection and description are also acts of interpretation. 
+
+## Step 12 (Apr. 5th): Recap and Revise 
+
+Please note: *Your revisions to a response to a previous prompt (1, 2, or 3) are due by 11:30am on Monday, April 5th. These revisions are optional.*
+
+This week's step should consume no more than *four hours* of your time.
+
+Before our meeting on Monday, April 5th, please: 
+
+1. Revise your response to [Prompt 1](#prompt-1), [Prompt 2](#prompt-2), *or* [Prompt 3](#prompt-3) and submit it via Brightspace. This is optional, and you can revise only one response. If you do revise, then we recommend reviewing the feedback we provided on your initial response. 
+2. Email us any questions or concerns you have you about the revision process. 
+
+During our meeting, we'll talk about: 
+
+1. Material from previous steps that we've failed to address due to the pressures of time and online learning. 
+2. What we've studied, discussed, and learned this term. We'll do our best to distill it all, too. 
+
+Our exercise for this step (conducted during our meeting on the 5th): Identify what you consider to be the most important thing you learned about comics and contemporary America this term. Then identify something you still want to learn or learn more about. 
+
+## Step 13 (Apr. 12th): Share a Comic 
+
+This week's step should consume no more than *four hours* of your time.
+
+Before our meeting on Monday, April 12th, please: 
+
+1. Identify a comic you'd like to share with other people in this class. It should be from the 21st century and somehow relevant to contemporary America (published in America, written by someone in America, or illustrated by someone in America, for instance). 
+2. Acquire access to that comic. Perhaps you already own it, a friend has a copy you can borrow, or you can get from a library, subscription service, or bookstore. 
+3. Reread or skim the comic and cook up a sentence or two about it that you want to share with others in this class. How, for example, is it relevant to this course and what we've talked about this term? Or why should people read it (or not read it)?
+
+During our meeting, we'll share comics, talk about them, and discuss what they bring to the table of "Comics and Contemporary America." We'll also complete course experience surveys.  
+
+## Step 14 (Apr. 19th): Series Finale 
+
+Please note: *Your response to Prompt 4 is due by 5pm on Monday, April 19th.* 
+
+It's the examination period at UVic, so we don't have a meeting this week. 
+
+For your final in this course, please: 
+
+1. Respond to [Prompt 4](#prompt-4) and submit your response via Brightspace by *Monday, April 19th at 5pm*. 
+2. Email us any questions or concerns you have you about [Prompt 4](#prompt-4), especially if you would like us to clarify something in the prompt. 
+
+This week's step (the final) should consume no more than *five hours* of your time.
+
+Thank you! We hope you enjoy your summer. 
 
 # Policies 
+
+Here are the policies for English 425, "Comics and Contemporary America." 
 
 ### Prerequisites 
 
@@ -93,14 +358,14 @@ There are no prerequisites for this 400-level English course.
 
 ### Brightspace 
 
-We will rely as little as possible on Brightspace for this course. We will not use it for discussions, surveys, or polls, and you won't need it to write or produce any of your assignments. You should be able to find most of what you need here, in this course outline, which---for the sake of access---we also copied into Brightspace. This way, you can rely entirely on Brightspace, if you prefer. 
+We will rely as little as possible on Brightspace for this course. We will not use it for discussions, surveys, or polls, and you won't need it to write or produce any of your assignments. You should be able to find most of what you need here, in this course outline, which---for the sake of access---we copied into Brightspace. This way, you can rely entirely on Brightspace, if you prefer it. 
 
-We *will* use Brightspace for: 
+But we will only use Brightspace for the following, most of which may arrive as emails in your inbox (see your Brightspace settings): 
 
-1. Class announcements, which you may also receive by email (see your Brightspace settings).
-2. Circulating video recordings of weekly Zoom meetings.
-3. Accessing your responses to the four [prompts](#prompts). Links to submit those responses are available in the [schedule](#schedule).
-4. Returning feedback and your marks.  
+1. Class announcements (one each week). 
+2. Circulating video recordings of weekly Zoom meetings (as part of the weekly class announcement). 
+3. Accessing your responses to the four [prompts](#prompts). Links to submit those four assignments are available in the [schedule](#schedule). This means you'll need to log into Brightspace at least four times (once per submission) this term.
+4. Returning feedback and your marks. 
 
 If you cannot access the course Brightspace, then please let us know. 
 
