@@ -2,8 +2,8 @@
 
 English 425 | Spring 2021 at the University of Victoria  
 An online undergraduate course for 40 students       
-Meetings (via Zoom): Mondays, 11:30am - 12:50pm 
-Office Hours: Mondays, 1-2pm and 3:30-4:30pm  
+Meetings (via Zoom): Mondays, 11:30am - 12:50pm   
+Office Hours: Mondays, 1-2pm and 3:30-4:30pm   
 Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)     
 With Faith Ryan (she / her / hers), teaching assistant  
 
