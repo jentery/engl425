@@ -466,9 +466,9 @@ At this point in the course, you have read *Ms. Marvel*, Vol. 1: *No Normal*, do
 
 ***
 
-*Option 1*: Annotate *Ms. Marvel* for Grade 12 Students 
+*Prompt 1, Option 1*: Annotate *Ms. Marvel* for Grade 12 Students 
 
-Select a page (and only one page) of *Ms. Marvel* and then scan, photocopy, or photograph it for the purposes of annotation. You can annotate a copy on paper or screen. Your choice. But you should annotate it with the following scenario in mind . . . 
+Select a page (and only one page) of *Ms. Marvel* and then scan, photocopy, photograph, or somehow capture it as an image file for the purposes of annotation. You can annotate a copy on paper or screen. Your choice. But you should annotate it with the following scenario in mind . . . 
 
 Imagine you are in Victoria, teaching students in [Literary Studies 12](https://curriculum.gov.bc.ca/curriculum/english-language-arts/12/literary-studies) (English Language Arts) about depictions of the superhuman in comics. You've decided to rely on *Ms. Marvel* for examples, and---to start everyone on the same page---you assume the students have never studied (or even read) comics, including superhero comics. The students will read *Ms. Marvel*, Vol. 1: *No Normal* prior to discussing it with you. 
 
@@ -495,9 +495,9 @@ Submit your response now (linking coming soon).
 
 *** 
 
-*Option 2*: Use *Ms. Marvel* to Define "Comics" with Grade 12 Students 
+*Prompt 1, Option 2*: Use *Ms. Marvel* to Define "Comics" with Grade 12 Students 
 
-Select at least three panels from *Ms. Marvel* that demonstrate what makes comics (or at least *this* comic) interesting or unique. Now approach your selection with the following scenario in mind . . . 
+Select at least three panels from *Ms. Marvel* that demonstrate what makes comics (or at least *this* comic) interesting or unique. You may want to scan, photocopy, photograph, or somehow capture each of them as an image file. Now approach your selection with the following scenario in mind . . . 
 
 Imagine you are in Victoria, teaching students in [Literary Studies 12](https://curriculum.gov.bc.ca/curriculum/english-language-arts/12/literary-studies) (English Language Arts) about comics and, more specifically, how to define them. You have decided to rely on *Ms. Marvel* for examples, and---to start everyone on the same page---you assume the students have never studied (or even read) comics, including superhero comics. The students will read *Ms. Marvel*, Vol. 1: *No Normal* prior to discussing it with you. 
 
@@ -521,6 +521,8 @@ We will use the following criteria and [UVic's official grading system](https://
 You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
 
 Submit your response now (linking coming soon).
+
+***
 
 ### Prompt 2 
 
