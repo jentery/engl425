@@ -538,6 +538,6 @@ Coming soon.
 
 ***
 
-Thanks and hugs to Curtis Hisayasu (University of Washington) for all of his suggestions and advice. 
+Thanks and hugs to Curtis Hisayasu (University of Washington) for all of his suggestions and advice. Thanks as well to everyone, including Samuel Adesubokan, Tracey El Hajj, Julie M. Funk, and Stefan Higgins, in the Praxis Studio for their feedback along the way. 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
