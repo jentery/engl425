@@ -476,6 +476,6 @@ Coming soon.
 
 ***
 
-Thanks and hugs to Curtis Hisayasu (University of Washington), who tells me (Jentery) what comics to read. 
+Thanks and hugs to Curtis Hisayasu (University of Washington) for all of his suggestions and advice. 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
