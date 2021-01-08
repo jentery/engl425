@@ -456,11 +456,71 @@ As researchers and instructors who have the privilege to live and work as guests
 
 # Prompts 
 
-The prompts for this course are coming soon. 
+Here are the four prompts for this course. Please note that each prompt has two options for a response.  
 
 ### Prompt 1 
 
-Coming soon. 
+*A response to this prompt is due via Brightspace (link coming soon) by 11:30am on Monday, February 1st.*
+
+At this point in the course, you have read *Ms. Marvel*, Vol. 1: *No Normal*, done your best to define "comics," studied superhero comics as a genre, and experimented with amplification to craft a cartoon. Now it's time to share some of what you've learned with other students.  
+
+***
+
+*Option 1*: Annotate *Ms. Marvel* for Grade 12 Students 
+
+Select a page (and only one page) of *Ms. Marvel* and then scan, photocopy, or photograph it for the purposes of annotation. You can annotate a copy on paper or screen. Your choice. But you should annotate it with the following scenario in mind . . . 
+
+Imagine you are in Victoria, teaching students in [Literary Studies 12](https://curriculum.gov.bc.ca/curriculum/english-language-arts/12/literary-studies) (English Language Arts) about depictions of the superhuman in comics. You've decided to rely on *Ms. Marvel* for examples, and---to start everyone on the same page---you assume the students have never studied (or even read) comics, including superhero comics. The students will read *Ms. Marvel*, Vol. 1: *No Normal* prior to discussing it with you. 
+
+Now please annotate a page of *Ms. Marvel* to: 
+
+1. Point to particular aspects of the superhuman in *Ms. Marvel*.
+2. Help Literary Studies 12 students to understand superhero comics as a genre. 
+3. Encourage Literary Studies 12 students to understand but also question what they are reading (i.e., *Ms. Marvel* in particular and superhero comics in general).  
+
+If you have never annotated a comic, then check out [these wonderful examples](http://spinweaveandcut.com/visual-analysis-examples/) from Nick Sousanis’s comics courses. Note, for instance, how many of the examples rely on colour coding to convey meaning and significance, and also how the comics are placed on a larger canvas (in software) or a sheet of paper (print) to make room for annotations in the margins.  
+
+Once you've annotated a page of *Ms. Marvel*, please convert it into an image file (digitize it, if need be) and include it alongside 100 or so words detailing why you annotated the page the way you did, and how you considered your audience (students in Literary Studies 12) along the way. Ensure your image file is easy to read on a screen. You can submit the image file as an attachment, but please copy and paste your 100-word description into Brightspace for us to read there. (Do not attach your description as a DOCX or PDF file, for instance.)
+
+We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your annotations and 100-word description: 
+
+1. The annotations are aware of their context (English Language Arts in Victoria) and audience (Literary Studies 12 students who have never studied comics, including superhero comics). They introduce terms using language the students (who may be new to the material) could understand, they rely on details and point students to particular aspects of *Ms. Marvel*, and they highlight how superhero comics are a genre (that is, they are written or constructed to follow certain conventions and engage specific reader expectations). 
+2. The 100-word description demonstrates you are aware of the choices you made while annotating *Ms. Marvel* for Literary Studies 12 students. It communicates concisely why you annotated the page the way you did and how you considered your audience in the process. It may even mention what you decided to exclude or avoid while annotating. After all, your annotations of a single page can't say everything there is to say about *Ms. Marvel* or superhero comics.  
+3. The annotations encourage Literary Studies 12 students to understand but also question what they are reading (*Ms. Marvel* in particular and the superhero genre in general). They are clear, descriptive, and grounded in details and examples, yet they prompt critical discussion, too.
+4. The annotations and description demonstrate you read and studied *Ms. Marvel*, Vol. 1, and they apply what you learned from class lectures, discussions, and exercises on January 18th and 25th. 
+
+You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+
+Submit your response now (linking coming soon).
+
+*** 
+
+*Option 2*: Use *Ms. Marvel* to Define "Comics" with Grade 12 Students 
+
+Select at least three panels from *Ms. Marvel* that demonstrate what makes comics (or at least *this* comic) interesting or unique. Now approach your selection with the following scenario in mind . . . 
+
+Imagine you are in Victoria, teaching students in [Literary Studies 12](https://curriculum.gov.bc.ca/curriculum/english-language-arts/12/literary-studies) (English Language Arts) about comics and, more specifically, how to define them. You have decided to rely on *Ms. Marvel* for examples, and---to start everyone on the same page---you assume the students have never studied (or even read) comics, including superhero comics. The students will read *Ms. Marvel*, Vol. 1: *No Normal* prior to discussing it with you. 
+
+Now write a short plan (500 words plus at least three panels from *Ms. Marvel*) to engage Literary Studies 12 students in: 
+
+1. Trying to define "comics" by way of specific panels from *Ms. Marvel*. 
+2. Grasping some key elements of comics and how they work. 
+3. Understanding how comics are defined while also questioning the notion of a single, all-encompassing (or unifying) definition of them. 
+
+Your plan should be written for a 30-minute workshop, as if you are teaching and communicating with Literary Studies 12 students. It is not a speech or a script you'd read aloud. It is instead a blueprint or sketch for a 30-minute activity and discussion. Perhaps your examples from *Ms. Marvel* are treated as slides, projections, or handouts, and maybe you include specific questions you'd ask students, giving them time to respond verbally or in writing. If, for the sake of learning and instruction, you wish to manipulate the examples (for instance, remove text or images from a panel of *Ms. Marvel*), and you know how, then you are welcome to do so. We also recommend practicing or role-playing your plan (if only by yourself) before you submit it. One key thing for any workshop plan is to leave from for flexibility and engagement. Another is to ensure the goals or aims are clear. This particular plan can assume whatever form or shape you prefer; however, it should address the three learning goals listed above, and it should be written for an audience of Grade 12 students.  
+
+Once you've selected your examples (again, at least three panels) from *Ms. Marvel* and written your plan for a 30-minute workshop, please copy and paste the plan (500 words) into Brightspace and either attach your examples as image files or embed them in the text of your plan. This way, we can read your plan in Brightspace. (Do not attach your plan as a DOCX, PPT, or PDF file, for instance.)
+
+We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your workshop plan: 
+
+1. The plan and its examples are aware of their context (English Language Arts in Victoria) and audience (Literary Studies 12 students who have never studied comics, including superhero comics). They introduce terms using language the students (who are new to the material) could understand, they rely on details and point students to particular aspects of *Ms. Marvel*, and they communicate or demonstrate how comics are defined. They may even highlight what makes comics interesting or unique.  
+2. The plan and its examples demonstrate you are aware of the choices you made while helping Literary Studies 12 students to define comics. The selection of examples appears to be deliberate (not whimsical), and it attends to some key elements of comics. The plan also helps students to being developing a vocabulary for talking about comics. 
+3. The plan and its examples encourage Literary Studies 12 students to understand but also question the very notion of defining comics. The plan may, for instance, acknowledge the limitations of using one comic as an example to define all comics. 
+4. The plan and its examples demonstrate you read and studied *Ms. Marvel*, Vol. 1, and they apply what you learned from class lectures, discussions, and exercises on January 18th and 25th. 
+
+You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+
+Submit your response now (linking coming soon).
 
 ### Prompt 2 
 
