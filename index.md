@@ -528,7 +528,7 @@ Submit your response now (linking coming soon).
 
 *A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, February 22nd.*
 
-Since responding to the first prompt, you've read Victor LaValle's *Destroyer*, drawn a character from memory, experimented with transitions between panels, discussed what's implied by the "popular" in popular culture, and studied adaptation, race, and gender in comics. This prompt asks you to spend some time writing about LaValle's *Destroyer* in particular and to connect with some of the conversations we've had since January.    
+Since responding to the first prompt, you've read Victor LaValle's *Destroyer*, drawn a character from memory, experimented with transitions between panels, discussed what's implied by the "popular" in popular culture, and studied adaptation, race, and gender in comics. This prompt asks you to spend some time writing about LaValle's *Destroyer* in particular and to connect it with some of the conversations we've had since January.    
 
 ***
 
