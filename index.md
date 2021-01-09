@@ -518,7 +518,7 @@ We will use the following criteria and [UVic's official grading system](https://
 3. The plan and its examples encourage Literary Studies 12 students to understand but also question the very notion of defining comics. The plan may, for instance, acknowledge the limitations of using one comic as an example to define all comics. 
 4. The plan and its examples demonstrate you read and studied *Ms. Marvel*, Vol. 1, and they apply what you learned from class lectures, discussions, and exercises on January 18th and 25th. 
 
-You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+You should *not* circulate your workhop plan publicly or online (beyond the course Brightspace). 
 
 Submit your response now (linking coming soon).
 
@@ -561,7 +561,7 @@ We will use the following criteria and [UVic's official grading system](https://
 3. The letter is aware of its audience (Faith and Jentery), who have also read LaValle's *Destroyer*. It is less formal than an academic essay yet more formal than a message to a friend or family member. It follows the conventions of a letter.  
 4. The letter demonstrates you read and studied Victor LaValle's *Destroyer*, and it applies what you learned from class lectures, discussions, and exercises on February 1st and 8th. 
 
-You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+You should *not* circulate your letter publicly or online (beyond the course Brightspace). 
 
 Submit your response now (linking coming soon).
 
@@ -591,12 +591,12 @@ Once you've written your letter to us (500-750 words), please copy and paste it 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
 
-1. The letter is grounded in details from *Destroyer* and tell us about its cultural, aesthetic, and critical significance, from the assumptions under which it was written to its effects on people's perceptions of comics to a norm it addresses, subverts, or rewrites. 
+1. The letter is grounded in details from *Destroyer* and tells us about the comic's cultural, aesthetic, and critical significance, from the assumptions under which it was written to its effects on people's perceptions of comics to a norm it addresses, subverts, or rewrites. 
 2. The letter conveys what's "popular" (or not) about *Destroyer* and supports that observation with evidence from the comic. 
 3. The letter is aware of its audience (Faith and Jentery), who have also read LaValle's *Destroyer*. It is less formal than an academic essay yet more formal than a message to a friend or family member. It follows the conventions of a letter.  
 4. The letter demonstrates you read and studied Victor LaValle's *Destroyer*, and it applies what you learned from class lectures, discussions, and exercises on February 1st and 8th. 
 
-You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+You should *not* circulate your letter publicly or online (beyond the course Brightspace). 
 
 Submit your response now (linking coming soon).
 
