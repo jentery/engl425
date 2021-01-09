@@ -585,7 +585,7 @@ The letter should:
 4. Following the first three points, tell us what's "popular" (or not) about *Destroyer*: where or when, for example, it consents to a norm or rejects it, and how. Here, you might want to recall our discussions of popular media, fiction, and culture in early February.  
 5. Ask us any questions you have about *Destroyer* and comics in general and also share any other perspectives you have on the comic at hand. 
 
-This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s relation to popular culture. You are welcome to include page images in your letter or to simply point us via page numbers or ebook locations. 
+This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s relation to popular culture. You are welcome to include page images in your letter or to simply point us to parts of the book via page numbers or ebook locations.
 
 Once you've written your letter to us (500-750 words), please copy and paste it into Brightspace and (if applicable) either attach page images as image files or embed them in the text of your letter. This way, we can read your letter in Brightspace. (Do not attach your letter as a DOCX or PDF file, for instance.)
 
