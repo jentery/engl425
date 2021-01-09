@@ -526,7 +526,80 @@ Submit your response now (linking coming soon).
 
 ### Prompt 2 
 
-Coming soon. 
+*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, February 22nd.*
+
+Since responding to the first prompt, you've read Victor LaValle's *Destroyer*, drawn a character from memory, experimented with transitions between panels, discussed what's implied by the "popular" in popular culture, and studied adaptation, race, and gender in comics. This prompt asks you to spend some time writing about LaValle's *Destroyer* in particular and to connect with some of the conversations we've had since January.    
+
+***
+
+*Prompt 2, Option 1*: Write a Letter about the Last Page of *Destroyer*  
+
+On the final page of LaValle's *Destroyer*, Akai says, "All I want to do is watch these kids play." The final page is also a full-page panel (a common decision in comics). How, then, might you interpret its significance not only as a closing gesture but also in relation to other parts of the book? Please address this question with this scenario in mind . . . 
+
+Having conversations with other people outside your core bubble may be somewhat rare while learning online and social distancing during a pandemic. Here, we're hoping to keep things social by asking you to write us (Faith and Jentery) a letter. We imagine most other letters you write, or most other conversations you have, are not about comics. But perhaps Victor LaValle's *Destroyer* is fascinating enough to spark an exception to the rule. 
+
+Your letter should be 500-750 words, follow the conventions of a letter (including a date, salutation, body, closing, and your name or signature; maybe even a post-script), and assume we, too, have read *Destroyer* (that means we won't need much context or description). Your letter can be less formal than an academic essay yet more formal than a message to a friend or family member. Feel free to address us by our first names, use second person ("you"), refer to class discussions, and ask us questions whenever you're curious or unsure about something. Our pronouns are she / her (Faith) and he / him (Jentery). For some fun, let's imagine you're sending your letter to us by post. (No stamp required.)  
+
+Now, use the letter to help us put the final page of *Destroyer* into conversation with another page in the book. Before you start writing, you should select that other page---one that yields interesting connections or interpretations when placed next to the final one. Copying, photographing, or somehow capturing images of the two pages may render this process easier than flipping back and forth between moments in the book. 
+
+The letter should:  
+
+1. Communicate the *verbal* and *visual* significance of *Destroyer*'s final page: what is said (by Akai) and what is shown on this page alone. 
+2. Communicate the *verbal* and *visual* significance of another page of *Destroyer*: what is said and what is shown on that page alone. Feel free to choose any other page in the book. 
+3. Communicate the *narrative* significance of reading the two pages together: what meaning is produced when you place them side-by-side (juxtaposed) and then transition from reading one to the next (closure or connection). Here, you may want to recall the types of transitions we studied in early February. What is *not* shown or communicated in the transition from page to page, and what are readers left to imagine? How do they fill the gaps between the two pages to produce meaning? 
+4. Following the first three points, communicate the *thematic* significance of Akai saying, "All I want to do is watch these kids play": how it pertains to a central message in *Destroyer* and what we're to make of it. Here, you might want to recall our discussions of race, gender, and adaptation in early February, but don't feel like you can or should talk about *all* of those topics in a single letter. Pick something in particular. 
+5. Ask us any questions you have about *Destroyer* and comics in general and also share any other perspectives you have on the comic at hand. 
+
+This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s last page as it relates to another moment in the book. You are welcome to include page images in your letter or to simply point us via page numbers or ebook locations.  
+Once you've written your letter to us (500-750 words), please copy and paste it into Brightspace and (if applicable) either attach your page images as image files or embed them in the text of your letter. This way, we can read your letter in Brightspace. (Do not attach your letter as a DOCX or PDF file, for instance.)
+
+We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
+
+1. The letter is supported by examples from LaValle's *Destroyer* and is grounded in details related to their verbal and visual significance. It points the reader to the end of the comic as well as to an earlier page, to then put these two moments into conversation by juxtaposing them and transitioning from reading one to the next. It explains to us the narrative significance of this transition.   
+2. The letter conveys the thematic significance of Akai's closing gesture, "All I want to do is watch these kids play," including how it pertains to a central message in *Destroyer*. It tells us what that central message is. 
+3. The letter is aware of its audience (Faith and Jentery), who have also read LaValle's *Destroyer*. It is less formal than an academic essay yet more formal than a message to a friend or family member. It follows the conventions of a letter.  
+4. The letter demonstrates you read and studied Victor LaValle's *Destroyer*, and it applies what you learned from class lectures, discussions, and exercises on February 1st and 8th. 
+
+You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+
+Submit your response now (linking coming soon).
+
+***
+
+*Prompt 2, Option 2*: Write a Letter about *Destroyer* and Popular Culture  
+
+Victor LaValle's *Destroyer* adapts aspects of Shelley's canonical *Frankenstein; or, The Modern Prometheus* into a comic and takes Shelley's story in various new directions. It also experiments with comics, power, and representation in the process. How, then, would you describe its relation to popular culture? What's "popular" (or not) about *Destroyer*? Please address these questions with this scenario in mind . . . 
+
+Having conversations with other people outside your core bubble may be somewhat rare while learning online and social distancing during a pandemic. Here, we're hoping to keep things social by asking you to write us (Faith and Jentery) a letter. We imagine most other letters you write, or most other conversations you have, are not about comics. But perhaps Victor LaValle's *Destroyer* is fascinating enough to spark an exception to the rule. 
+
+Your letter should be 500-750 words, follow the conventions of a letter (including a date, salutation, body, closing, and your name or signature; maybe even a post-script), and assume we, too, have read *Destroyer* (that means we won't need much context or description). Your letter can be less formal than an academic essay yet more formal than a message to a friend or family member. Feel free to address us by our first names, use second person ("you"), refer to class discussions, and ask us questions whenever you're curious or unsure about something. Our pronouns are she / her (Faith) and he / him (Jentery). For some fun, let's imagine you're sending your letter to us by post. (No stamp required.)  
+
+Now, use the letter to help us better understand *Destroyer*'s relation to popular culture. Again, what's "popular" (or not) about *Destroyer*?  Before you start writing, you might want to identify some key moments, or panels, in the comic. Also, you don't need to worry about referring to Shelley's *Frankenstein*. We're not assuming you've read it. 
+
+The letter should:  
+
+1. Communicate the *cultural* significance of LaValle's *Destroyer*: for whom and by whom it was written, under what assumptions, and to what effects as a comic or story. 
+2. Communicate the *aesthetic* significance of *Destroyer*: what is does with comics as a format and experience, and to what effects on people's perceptions of comics. 
+3. Communicate the *critical* significance of *Destroyer*: for instance, a norm it addresses, subverts, or rewrites, and to what effects on comics or culture. Here, you might want to recall our discussions of race, gender, and adaptation in early February, but don't feel like you can or should talk about *all* of those topics in a single letter. Pick something in particular. 
+4. Following the first three points, tell us what's "popular" (or not) about *Destroyer*: where or when, for example, it consents to a norm or rejects it, and how. Here, you might want to recall our discussions of popular media, fiction, and culture in early February.  
+5. Ask us any questions you have about *Destroyer* and comics in general and also share any other perspectives you have on the comic at hand. 
+
+This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s relation to popular culture. You are welcome to include page images in your letter or to simply point us via page numbers or ebook locations. 
+
+Once you've written your letter to us (500-750 words), please copy and paste it into Brightspace and (if applicable) either attach page images as image files or embed them in the text of your letter. This way, we can read your letter in Brightspace. (Do not attach your letter as a DOCX or PDF file, for instance.)
+
+We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
+
+1. The letter is grounded in details from *Destroyer* and tell us about its cultural, aesthetic, and critical significance, from the assumptions under which it was written to its effects on people's perceptions of comics to a norm it addresses, subverts, or rewrites. 
+2. The letter conveys what's "popular" (or not) about *Destroyer* and supports that observation with evidence from the comic. 
+3. The letter is aware of its audience (Faith and Jentery), who have also read LaValle's *Destroyer*. It is less formal than an academic essay yet more formal than a message to a friend or family member. It follows the conventions of a letter.  
+4. The letter demonstrates you read and studied Victor LaValle's *Destroyer*, and it applies what you learned from class lectures, discussions, and exercises on February 1st and 8th. 
+
+You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
+
+Submit your response now (linking coming soon).
+
+*** 
 
 ### Prompt 3 
 
