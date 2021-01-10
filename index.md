@@ -1,11 +1,11 @@
 # Comics and Contemporary America
 
-English 425 | Spring 2021 at the University of Victoria    
-An online undergraduate course for 40 students       
-Meetings (via Zoom): Mondays, 11:30am - 12:50pm   
-Office Hours: Mondays, 1-2pm and 3:30-4:30pm    
-Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)      
-With Faith Ryan (she / her / hers), teaching assistant   
+English 425 | Spring 2021 | UVic    
+An online course for 40 students       
+Meetings: Monday, 11:30am - 12:50pm    
+Office Hours: Monday, 1-2pm + 3:30-4:30pm    
+Jentery Sayers (he / him / his; jentery@uvic.ca)      
+With Faith Ryan (she / her / hers), TA
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
