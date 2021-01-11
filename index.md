@@ -387,7 +387,7 @@ We will rely as little as possible on Brightspace for this course. We will not u
 But we will only use Brightspace for the following, most of which may arrive as emails in your inbox (see your Brightspace settings): 
 
 1. Class announcements (one each week). 
-2. Circulating video recordings of weekly Zoom meetings (as part of the weekly class announcement). 
+2. Circulating video recordings of Zoom meetings (as part of the weekly class announcement). 
 3. Accessing your responses to the four [prompts](#prompts). Links to submit those four assignments are available in the [schedule](#schedule). This means you'll need to log into Brightspace at least four times (once per submission) this term.
 4. Returning feedback and your marks. 
 
@@ -397,7 +397,7 @@ If you cannot access the course Brightspace, then please let us know.
 
 Responses to two of the four prompts are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 
-Faith and I will use UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your four responses. We do not post marks publicly or outside our offices, and we do not use plagiarism detection software.
+We will use UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your four responses. We do not post marks publicly or outside our offices, and we do not use plagiarism detection software.
 
 ### Late Submissions and Extensions
 
@@ -405,7 +405,7 @@ If you need to request an extension or you're concerned about the possibility of
 
 ### Communications 
 
-The best way to communicate with us is by email (jentery@uvic.ca), during weekly meetings (Mondays, 11:30am - 12:50pm) and office hours (Mondays, 1-2pm), and by appointment (phone or Zoom). 
+The best way to communicate with us is by email (jentery@uvic.ca), during weekly meetings (Mondays, 11:30am - 12:50pm) and office hours (Mondays, 1-2pm and 3:30-4:30pm), and by appointment (phone or Zoom). 
 
 We respond to work email between 9am and 5pm, Monday through Friday, excluding holidays. 
 
@@ -459,6 +459,8 @@ UVic takes student mental health very seriously, with a [website](https://www.uv
 
 The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this course, but all of them are still important.
 
+(Language for this policy was drawn from the work of Richard Pickard at UVic.) 
+
 # Prompts 
 
 Here are the four prompts for this course. Please note that each prompt has two options for a response. You should select *one* of the two options.   
@@ -487,7 +489,7 @@ If you have never annotated a comic, then check out [these wonderful examples](h
 
 Once you've annotated a page of *Ms. Marvel*, please convert it into an image file (digitize it, if need be) and include it alongside 100 or so words detailing why you annotated the page the way you did, and how you considered your audience (students in Literary Studies 12) along the way. Ensure your image file is relatively easy to read on a screen. 
 
-To submit your response, attach your annotations and 100-word description as files to the "Prompt 1" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+To submit your response, please attach your annotations and 100-word description as files to the "Prompt 1" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your annotations and 100-word description: 
 
@@ -506,9 +508,9 @@ Submit your response now (link coming soon).
 
 Select at least three panels from *Ms. Marvel* that demonstrate what makes comics (or at least *this* comic) interesting or unique. You may want to scan, photocopy, photograph, or somehow capture each of them as an image file. Now approach your selection with the following scenario in mind . . . 
 
-Imagine you are in Victoria, teaching students in [Literary Studies 12](https://curriculum.gov.bc.ca/curriculum/english-language-arts/12/literary-studies) (English Language Arts) about comics and, more specifically, how to define them. You have decided to rely on *Ms. Marvel* for examples, and---to start everyone on the same page---you assume the students have never studied (or even read) comics, including superhero comics. The students will read *Ms. Marvel*, Vol. 1: *No Normal* prior to discussing it with you. 
+Imagine you are in Victoria, teaching students in [Literary Studies 12](https://curriculum.gov.bc.ca/curriculum/english-language-arts/12/literary-studies) (English Language Arts) about comics and, more specifically, how to define them. You have decided to rely on *Ms. Marvel* for examples, and---to start with everyone on the same page---you assume the students have never studied (or even read) comics, including superhero comics. The students will read *Ms. Marvel*, Vol. 1: *No Normal* prior to discussing it with you. 
 
-Now write a short plan (500 words plus at least three panels from *Ms. Marvel*) to engage Literary Studies 12 students in: 
+Now write a short plan (500 words plus at least three panels from *Ms. Marvel*) for a 30-minute workshop to engage Literary Studies 12 students in: 
 
 1. Trying to define "comics" by way of specific panels from *Ms. Marvel*. Here, you might want to recall our conversations on January 18th. 
 2. Grasping some key elements of comics and how they work. Again, our conversations on January 18th might be relevant here. 
@@ -517,11 +519,11 @@ Now write a short plan (500 words plus at least three panels from *Ms. Marvel*) 
 
 Your plan should be written for a 30-minute workshop, as if you are teaching and communicating with Literary Studies 12 students. It is not a speech or a script you'd read aloud. It is instead a blueprint or sketch for a 30-minute activity and discussion. Perhaps your examples from *Ms. Marvel* are treated as slides, projections, or handouts, and maybe you include specific questions you'd ask students, giving them time to respond verbally or in writing. If, for the sake of learning and instruction, you wish to manipulate the examples (for instance, remove text or images from a panel of *Ms. Marvel*), and you know how, then you are welcome to do so. We also recommend practicing or role-playing your plan (if only by yourself) before you submit it. One key thing for any workshop plan is to leave room for flexibility and engagement. Another is to ensure the goals or aims are clear. This particular plan can assume whatever shape or format you prefer (an outline, a series of paragraphs, or slides with notes for the instructor, for instance); however, it should address the three learning goals listed above, and it should be written for an audience of Grade 12 students.  
 
-Once you've selected your examples (again, at least three panels) from *Ms. Marvel* and written your plan (500 words) for a 30-minute workshop, submit them as attachments to the "Prompt 1" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, PPTX, GSLIDES, JPG, and/or PNG files for your images and text. 
+Once you've selected your examples (again, at least three panels) from *Ms. Marvel* and written your plan (500 words) for a 30-minute workshop, please submit them as attachments to the "Prompt 1" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, PPTX, GSLIDES, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your workshop plan: 
 
-1. The plan and its examples are aware of their context (English Language Arts in Victoria) and audience (Literary Studies 12 students who have never studied comics, including superhero comics). They introduce terms using language the students (who are new to the material) could understand, they rely on details and point students to particular aspects of *Ms. Marvel*, and they communicate or demonstrate how comics are defined. They may even highlight what makes comics interesting or unique.  
+1. The plan and its examples are aware of their context (English Language Arts in Victoria) and audience (Literary Studies 12 students who have never studied comics, including superhero comics). They introduce terms using language the students (who may be new to the material) could understand, they rely on details and point students to particular aspects of *Ms. Marvel*, and they communicate or demonstrate how comics are defined. They may even highlight what makes comics interesting or unique.  
 2. The plan and its examples demonstrate you are aware of the choices you made while helping Literary Studies 12 students to define comics. The selection of examples appears to be deliberate (not whimsical), and it attends to some key elements of comics. The plan also helps students to begin developing a vocabulary for talking about comics, and to enjoy or appreciate the comic they are reading. 
 3. The plan and its examples encourage Literary Studies 12 students to understand but also question the very notion of defining comics. The plan may, for instance, acknowledge the limitations of using one comic as an example to define all comics. 
 4. The plan and its examples demonstrate you read and studied *Ms. Marvel*, Vol. 1, and they apply what you learned from class lectures, discussions, and exercises on January 18th and 25th. 
@@ -534,7 +536,7 @@ Submit your response now (link coming soon).
 
 ### Prompt 2 
 
-*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, February 22nd.* Note that 5pm is *after* our meeting. We're giving you a bit more time than usual because you're returning to class from reading break this week. 
+*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, February 22nd.* Note that 5pm is *after* our meeting. We're giving you a bit more time than usual because you're returning to class this week from reading break. 
 
 Since responding to the first prompt, you've read Victor LaValle's *Destroyer*, drawn a character from memory, experimented with transitions between panels, discussed what's implied by the "popular" in popular culture, and studied adaptation, race, and gender in comics. This prompt asks you to spend some time writing about LaValle's *Destroyer* in particular and to connect it with some of the conversations we've had since January.    
 
@@ -554,13 +556,13 @@ The letter should:
 
 1. Touch upon the *verbal* and *visual* significance of *Destroyer*'s final page: what is said (by Akai) and what is shown on this page alone. 
 2. Touch upon the *verbal* and *visual* significance of another page of *Destroyer*: what is said and what is shown on that page alone. Feel free to choose any other page in the book. 
-3. Communicate and unpack the *narrative* significance of reading the two pages together: what meaning is produced when you place them side-by-side (juxtaposed) and then transition from reading one to the next (closure or connection). Here, you may want to recall the types of transitions we studied in early February. What is *not* shown or communicated in the transition from page to page, and what are readers left to imagine? How do they fill the gaps between the two pages to produce meaning? 
+3. Communicate and unpack the *narrative* significance of reading the two pages together: what meaning is produced when you place them side-by-side (parallel or juxtaposed) and then transition from reading one to the next (serial, closure, or connection). Here, you may want to recall the types of transitions we studied in early February. What is *not* shown or communicated in the transition from page to page, and what are readers left to imagine? How do they fill the gaps between the two pages to produce meaning? 
 4. Following the first three points, also communicate the *thematic* significance of Akai saying, "All I want to do is watch these kids play": how it pertains to a central message in *Destroyer* and what we're to make of it. Here, you might want to recall our discussions of race, gender, and adaptation in early February, but don't try to address *everything* we've discussed in a single letter. Pick something in particular to avoid "scope creep" (i.e., trying to address too much in a single project). 
 5. Ask us any questions you have about *Destroyer* and comics in general and also share any other perspectives you have on the comic at hand. 
 
 This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s last page as it relates to another moment in the book. You are welcome to include page images in your letter or to simply point us to parts of the book via page numbers or ebook locations.  
 
-Once you've written your letter to us (500-750 words), submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your letter to us (500-750 words), please submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
 
@@ -595,7 +597,7 @@ The letter should:
 
 This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s relation to popular culture. You are welcome to include page images in your letter or to simply point us to parts of the book via page numbers or ebook locations.
 
-Once you've written your letter to us (500-750 words), submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your letter to us (500-750 words), please submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
 
@@ -614,31 +616,31 @@ Submit your response now (link coming soon).
 
 *A response to this prompt is due via Brightspace (link coming soon) by 11:30am on Monday, March 15th.*
 
-Since responding to the second prompt, you've read the first volume of *Monstress*, changed the word-image relation in a panel, changed the "shot" of a panel, studied the genres of horror and fantasy comics, and considered the relationship between art, literature, and comics. This prompt asks you to spend some time writing about *Monstress* in particular and to connect it with some of the conversations we've had since January. 
+Since responding to the second prompt, you've read the first volume of *Monstress*, changed the word-image relation in a panel, also changed the "shot" of a panel, studied the genres of horror and fantasy comics, and considered the relationship between art, literature, and comics. This prompt asks you to spend some time writing about *Monstress* in particular and to connect it with some of the conversations we've had since January. 
 
 ***
 
 *Prompt 3, Option 1*: Review *Monstress* for an Online Publication
 
-Reviews are a very important genre of writing when it comes to contemporary fiction. They affect how works, including comics, are received, and  they perform a kind of critical engagement that may address not only fandom and leisure but also literary, media, and cultural studies. This prompt provides you with an opportunity to review *Monstress*, with this scenario in mind . . . 
+Reviews are a very important genre of writing when it comes to contemporary fiction. They affect how works, including comics, are received, and  they perform a kind of critical engagement that may address not only fandom and leisure but also comics studies in and around the academy. This prompt provides you with an opportunity to review *Monstress*, with this scenario in mind . . . 
 
 Imagine you write occasionally for an online Canadian publication about comics and comics culture. It's June 2017, and one of the venue's editors has asked you to review *Awakening*, the first volume of *Monstress*. It's a relatively short review. They've given you no more than 750 words. They are also a bit behind on this one. *Awakening* was published in July 2016, and it collects issues 1-6 of *Monstress*, which was first published in late 2015. But you take the gig.  
 
-Here are a few more important details about your audience and the venue: Your readers care about comics, know a lot about them, and probably check the publication's website at least once a week. Your venue (again, a Canadian website) publishes news, features, interviews, and reviews related to comics, including comics written, illustrated, and/or published in North America. The venue wants to have its cake and eat it, too: to engage fans of comics as well as critics in literary, media, and cultural studies. Its editors do *not* want you tell their readers whether they should buy the first volume of *Monstress*, and the venue does *not* rate comics (on a scale of 1-10, or with thumbs up or down) on its site. The editors want you to focus instead on what exactly *Monstress* contributes to contemporary comics, including what makes it unique, compelling, generic, and/or culturally relevant. 
+Here are a few more important details about your audience and the venue: Your readers care about comics, know a lot about them, and probably check the publication's website at least once a week. Your venue (again, a Canadian website) publishes news, features, interviews, and reviews related to comics, including comics written, illustrated, and/or published in North America. The venue wants to have its cake and eat it, too: to engage fans of comics as well as critics in comics studies. (After all, fans may be professional critics, too.) Its editors do *not* want you tell their readers whether they should buy the first volume of *Monstress*, and the venue does *not* rate comics (on a scale of 1-10, or with thumbs up or down) on its site. The editors want you to focus instead on what exactly *Monstress* contributes to contemporary comics, including what makes it unique, compelling, generic, and/or culturally relevant. 
 
-Before you begin, you may want to give this hypothetical publication venue a name and, if you wish, a URL. Just make sure neither is taken. 
+Before you begin, you may want to give this hypothetical venue a name and, if you wish, a URL (without, of course, purchasing an actual domain). Just make sure neither is taken. 
 
 Your review (750 words) should: 
 
 1. Describe the story or plot of *Monstress*, Vol. 1. Please note that your editor asked you to avoid spoilers, where possible. 
 2. Describe the style and composition of *Monstress*: how, for instance, it frames images and communicates a story through words and images (or verbal and visual tracks). Here, you might recall our conversations on February 22nd. 
 3. Describe what *Monstress* is doing with the genre of fantasy or horror. Which expectations does it meet? Which does it subvert, resist, or reject? Here, you might recall our conversations on February 1st, February 8th, and March 1st. Consider, for instance, that *Monstress* is set in the 1900s in an alternate matriarchal Asia. 
-4. Note how the first volume of *Monstress* has been received to date (June 2017). Here, you might point to reviews in other venues as well as commentary on social media, including Goodreads, StoryGraph, and the usual platforms. Just make sure they were published in or before June 2017. 
+4. Note how the first volume of *Monstress* has been received to date (June 2017). Here, you might point to reviews in other venues as well as commentary on social media, including Goodreads, StoryGraph, and the usual platforms. Just make sure they were published before July 2017. 
 5. Communicate what exactly *Monstress* contributes to contemporary comics, including what makes it unique, compelling, generic, and/or culturally relevant.
 
 You are welcome to include an image or two of *Monstress* in your review, if you wish. 
 
-Once you've written your review (750 words), submit it and any images you wish to include as an attachment to the "Prompt 3" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your review (750 words), please submit it and any images you wish to include as an attachment to the "Prompt 3" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your review: 
 
@@ -656,25 +658,25 @@ Submit your response now (link coming soon).
 
 *Prompt 3, Option 2*: Review *Monstress* for a Podcast or Video Channel
 
-Reviews are a very important genre of communication when it comes to contemporary fiction. They affect how works, including comics, are received, and they perform a kind of critical engagement that may address not only fandom and leisure but also literary, media, and cultural studies. This prompt provides you with an opportunity to review *Monstress*, with this scenario in mind . . . 
+Reviews are a very important genre of communication when it comes to contemporary fiction. They affect how works, including comics, are received, and they perform a kind of critical engagement that may address not only fandom and leisure but also comics studies in and around the academy. This prompt provides you with an opportunity to review *Monstress*, with this scenario in mind . . . 
 
 Imagine you occasionally produce audio and video content for an online Canadian publication about comics and comics culture. It's June 2017, and one of the venue's editors has asked you to review *Awakening*, the first volume of *Monstress*. It's a relatively short review. They've given you no more than five minutes. They are also a bit behind on this one. *Awakening* was published in July 2016, and it collects issues 1-6 of *Monstress*, which was first published in late 2015. But you take the gig.  
 
-Here are a few more important details about your audience and the venue: Your listeners and viewers care about comics, know a lot about them, and probably check the publication's feeds at least once a week. Your venue (again, a Canadian website) publishes podcasts and videos with news, features, interviews, and reviews related to comics, including comics written, illustrated, and/or published in North America. The venue wants to have its cake and eat it, too: to engage fans of comics as well as critics in literary, media, and cultural studies. Its editors do *not* want you tell their readers whether they should buy the first volume of *Monstress*, and the venue does *not* rate comics (on a scale of 1-10, or with thumbs up or down) in its video or audio. The editors want you to focus instead on what exactly *Monstress* contributes to contemporary comics, including what makes it unique, compelling, generic, and/or culturally relevant. 
+Here are a few more important details about your audience and the venue: Your listeners and viewers care about comics, know a lot about them, and probably check the publication's feeds at least once a week. Your venue (again, a Canadian website) publishes podcasts and videos with news, features, interviews, and reviews related to comics, including comics written, illustrated, and/or published in North America. The venue wants to have its cake and eat it, too: to engage fans of comics as well as critics in comics studies. (After all, fans may be professional critics, too.) Its editors do *not* want you tell their readers whether they should buy the first volume of *Monstress*, and the venue does *not* rate comics (on a scale of 1-10, or with thumbs up or down) in its video or audio. The editors want you to focus instead on what exactly *Monstress* contributes to contemporary comics, including what makes it unique, compelling, generic, and/or culturally relevant. 
 
-Before you begin, you may want to give this hypothetical publication venue a name and, if you wish, a URL. Just make sure neither is taken. Equally important, you should decide whether you wish to produce a video or audio review for this prompt. You should consider the conventions for each as well. In your video or audio, you will probably want to introduce yourself, identify the venue (the podcast or channel), and include an intro and outro of sorts. Feel free to address your listeners or viewers directly, too, if you'd like.  
+Before you begin, you may want to give this hypothetical venue a name and, if you wish, a URL (without, of course, purchasing an actual domain). Just make sure neither is taken. Equally important, you should decide whether you wish to produce a video or audio review for this prompt. You should consider the conventions for each as well. In your video or audio, you will probably want to introduce yourself, identify the venue (the podcast or channel), and include an intro and outro of sorts. Feel free to address your listeners or viewers directly, too, if you'd like.  
 
 Your review (five minutes) should: 
 
 1. Describe the story or plot of *Monstress*, Vol. 1. Please note that your editor asked you to avoid spoilers, where possible. 
 2. Describe the style and composition of *Monstress*: how, for instance, it frames images and communicates a story through words and images (or verbal and visual tracks). Here, you might recall our conversations on February 22nd. 
 3. Describe what *Monstress* is doing with the genre of fantasy or horror. Which expectations does it meet? Which does it subvert or reject? Here, you might recall our conversations on February 1st, February 8th, and March 1st. Consider, for instance, that *Monstress* is set in the 1900s in an alternate matriarchal Asia. 
-4. Note how the first volume of *Monstress* has been received to date (June 2017). Here, you might point to reviews in other venues, podcasts, and channels as well as commentary on social media, including Goodreads, StoryGraph, and the usual platforms. Just make sure they were published in or before June 2017. 
+4. Note how the first volume of *Monstress* has been received to date (June 2017). Here, you might point to reviews in other venues, podcasts, and channels as well as commentary on social media, including Goodreads, StoryGraph, and the usual platforms. Just make sure they were published before July 2017. 
 5. Communicate what exactly *Monstress* contributes to contemporary comics, including what makes it unique, compelling, generic, and/or culturally relevant.
 
-You are welcome to include *Monstress* in your video, if you wish. 
+You are welcome to include panels and pages of *Monstress* in your video, if you wish. 
 
-Once you've produced your audio or video review (five minutes), submit it as an attachment to the "Prompt 3" assignment in Brightspace (link coming soon). MP3, WAV, MP4, MOV, and AVI formats are fine. If you relied on a script or notes for your audio or video review, then you may attach those as well in a PDF, DOCX, RTF, HTML, JPG, or PNG file.
+Once you've produced your audio or video review (five minutes), please submit it as an attachment to the "Prompt 3" assignment in Brightspace (link coming soon). MP3, WAV, MP4, MOV, and AVI formats are fine. If you relied on a script or notes for your audio or video review, then you may attach those as well in a PDF, DOCX, RTF, HTML, JPG, or PNG file.
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your review: 
 
@@ -692,25 +694,25 @@ Submit your response now (link coming soon).
 
 ### Prompt 4 
 
-*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, April 19th.*
+*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, April 19th. Extensions until Thursday, April 22nd at 5pm will be available upon request by email.*
 
-Since responding to the third prompt, you've read *Daytripper* and *Special Exits*, studied time as both a theme and device in comics, surveyed graphic memoirs and metacomics, changed the lettering of a panel, sketched yourself as a character, and analyzed the various meanings or dimensions of culture in the context of comics and contemporary America. You also selected and shared a comic with the class. This final prompt ask you to either conduct a comparative analysis of *Daytripper* and *Special Exits* or argue for the inclusion of another comic in this syllabus.   
+Since responding to the third prompt, you've read *Daytripper* and *Special Exits*, studied time as both a theme and device in comics, surveyed graphic memoirs and metacomics, changed the lettering of a panel, sketched yourself as a character, and analyzed the various meanings or dimensions of culture in the context of comics and contemporary America. You also selected and shared a comic with the class. This final prompt asks you to either conduct a comparative analysis of *Daytripper* and *Special Exits* or argue for the inclusion of another comic in this syllabus.   
 
 *** 
 
 *Prompt 4, Option 1*: Analyze Time in *Daytripper* and *Special Exits* 
 
-We talked a lot about time in this course, especially in March. Time's been a *theme* related to memory, aging, records, productivity, and calendars, for instance. It's also been a *device*: serialization, transitions, duration, the pace and rhythm of reading, figurative time, literal time, and time's expression on the space of the page and panel. How, then, are these two treatments of time (i.e., theme and device) related in comics, and why should people care? This prompt is an opportunity for you to address these very questions via a comparative analysis of *Daytripper* and *Special Exits*. It's thus also a chance to put two comics into conversation, something you've not yet done in a prompt for this course. So imagine this scenario . . . 
+We talked a lot about time in this course, especially in March. Time's been a *theme* related to memory, aging, records, productivity, and calendars, for instance. It's also been a *device*: serialization, transitions, duration, the pace and rhythm of reading, figurative time, literal time, and time's expression on the space of the page and panel. How, then, are these two treatments of time (i.e., theme and device) related in comics, and why should people care? This prompt is an opportunity for you to address these very questions via a comparative analysis of *Daytripper* and *Special Exits*. It's thus also a chance to put two comics into conversation, something you've not yet done in a prompt for this course. So, imagine this scenario . . . 
 
-A Canadian undergraduate journal in literary studies just invited submissions for a special issue on comics in the 21st century. They welcome research essays (1500-3000 words) as well as shorter critical analyses (750-1000 words). Intrigued, you decide to submit to the journal a comparative analysis of time in *Daytripper* and *Special Exits*. The journal's readers are mostly other undergraduate students in the Humanities, but include as well some faculty members across Canada in departments such as English, Visual Arts, Communication, Writing, and Film and Media Studies. For the purposes of this prompt, you can assume the journal's readers are familiar with either *Daytripper* and *Secret Exits* in particular or comics in general. They will know terms commonly used in the composition and study of comics, including those terms related to time.  
+A Canadian undergraduate journal in literary studies just invited submissions for a special issue on comics in the 21st century. They welcome research essays (1500-3000 words) as well as shorter critical analyses (750-1000 words). Intrigued, you decide to submit to the journal a comparative analysis of time in *Daytripper* and *Special Exits*. The journal's readers are mostly other undergraduate students in the Humanities, but include as well some faculty members across Canada in departments such as English, Visual Arts, Communication, Writing, and Film and Media Studies. For the purposes of this prompt, you can assume the journal's readers are familiar with either *Daytripper* and *Secret Exits* in particular or comics in general. They will know terms commonly used in the composition and study of comics, including terminology related to time.  
 
-Before you begin writing, you may want to identify a specific approach to time in comics that most interests you, or at least piques your interest. You may also want to jot down the various ways that time is a theme in *Daytripper* and *Special Exits* and highlight the productive overlaps. (This exercise will make it easier to write about them both.) And you might try the same with how Moon, Bá, and Farmer craft time and frame it in their comics. Again, what are some productive overlaps? Can you, for instance, identify one shared theme and one shared device across the two comics? Once you have such overlaps in mind, you can attend to the productive differences: how *Daytripper* and *Special Exits* present readers with distinct stories and messages, for instance. Next comes the argument for why the overlaps and differences matter. 
+Before you begin writing, you may want to identify a specific approach to time in comics that most interests you, or at least piques your interest. You may also want to jot down the various ways that time is a theme in *Daytripper* and *Special Exits* and highlight the productive overlaps. (This exercise will make it easier to write about them both.) And you might try the same with how Moon, Bá, and Farmer craft time and frame it in their comics. Again, what are some productive overlaps? Can you, for instance, identify one shared theme and one shared device across the two comics? Once you have such overlaps in mind, you can attend to the productive differences: how *Daytripper* and *Special Exits* present readers with distinct stories and messages, for instance. Next comes the argument for why their treatment of time matters today.  
 
 Your argument (750-1000 words) should:
 
 * Describe how both *Daytripper* and *Special Exits* approach time as a theme as well as a device. Here, you may want to recall our conversations on March 8th and 22nd. 
 * Draw the reader's attention to specific panels in each comic. These panels may be included as figures in the analysis. 
-* Engage *one* scholarly publication in comics studies. We recommend selecting a journal article, book chapter, or recorded conference talk that we already discussed this term. This way, you don't need to do extra research if you're pressed for time.) Here, you may want to recall our discussions of work by Julian Chambliss, Hillary Chute, Erik Loyer, and Scott McCloud, for example. 
+* Engage *one* scholarly publication in comics studies. We recommend selecting a journal article, book chapter, or recorded conference talk that we already discussed this term. (This way, you don't need to do extra research if you're overwhelmed or pressed for time.) Here, you may want to recall our discussions of work by Julian Chambliss, Hillary Chute, Erik Loyer, and Scott McCloud, for example. 
 * Make a convincing argument for why people (or least people who study comics) should care about how *Daytripper* and *Special Exits* treat time as both a theme and a device. The argument should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to the study of comics today. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. It usually builds on existing scholarship, too: "While Sayers argues X, he assumes Y and tends to ignore Z. This analysis addresses that gap by refraining from Y and attending to Z." As you make your argument, you might want to recall our conversations on March 29th. 
 * Use MLA style (8th edition) and follow the conventions of an academic argument.  
 
@@ -718,10 +720,10 @@ Once you've written your argument (750-1000 words), please submit it and any ima
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your argument: 
 
-1. The analysis is grounded in details, including specific panels, from *Daytripper* and *Special Exits*. It also draws from one scholarly publication in comics studies. 
-2. The analysis compares and contrasts the treatment of time as a theme as well as a device in *Daytripper* and *Special Exists*. 
-3. The analysis communicates a clear, concise, and convincing argument for why people (or at least people who study comics) should care about how  *Daytripper* and *Special Exits* treat time as both a theme and a device. The argument is contestable, grounded in detail, interpretative, and relevant to the study of comics today. It should answer the "so what?" (or "why does this matter?") question of criticism. 
-4. The analysis is aware of its audience and venue. It is written for a Canadian undergraduate journal in literary studies, whose readers are mostly students and faculty in the Humanities. It follows the conventions of an academic argument and uses MLA style, and it assumes its readers are familiar with either *Daytripper* and *Secret Exits* in particular or comics in general.
+1. The analysis is grounded in details, including specific panels from *Daytripper* and *Special Exits*. It also draws from one scholarly publication in comics studies, one which we may have discussed in class. 
+2. The analysis compares and contrasts the treatment of time as a theme as well as a device in *Daytripper* and *Special Exits*. 
+3. The analysis communicates a clear, concise, and convincing argument for why people (or at least people who study comics) should care about how *Daytripper* and *Special Exits* treat time as both a theme and a device. The argument is contestable, grounded in detail, interpretative, and relevant to the study of comics today. It should answer the "so what?" (or "why does this matter?") question of criticism. 
+4. The analysis is aware of its audience and venue. It is written for a Canadian undergraduate journal in literary studies, whose readers are mostly students and faculty in the Humanities. It follows the conventions of an academic argument and uses MLA style, and it assumes its readers are familiar with either *Daytripper* and *Secret Exits* in particular or comics in general. It does not assume we (Faith and Jentery) are the only members of its audience. 
 5. The analysis demonstrates you read and studied *Daytripper* and *Special Exits*, and it applies what you learned from class lectures, discussions, and exercises on March 8th, 15th, 22nd, and 29th.  
 
 You should *not* circulate your argument publicly or online (beyond the course Brightspace). 
@@ -732,31 +734,31 @@ Submit your response now (link coming soon).
 
 *Prompt 4, Option 2*: Add a Comic to this Syllabus
 
-There are a lot of comics to read, and perhaps you want to write about one of them for this course---say, the comic you shared with us on April 12th. This prompt is an opportunity for you to do so. After all, we could've easily studied five other works in this course. Imagine this scenario . . . 
+There are a lot of comics to read, and maybe you want to write about one of them for this course---say, the comic you shared with us on April 12th. This prompt is an opportunity for you to do so. After all, we could've easily studied five other works in this course. Imagine this scenario . . . 
 
-The [Canadian Society for the Study of Comics](http://comics-scholars.com/wp/) invites papers on comics in the post-secondary classroom. They are looking for focused arguments (750-1000 words), informed by previous classroom learning experiences, for particular works that people, including students and instructors, believe should be taught and studied in the 2020s. These papers will be collected and published on the Society's website. There may also be a conference panel on the topic. Intrigued, you decide to submit a paper. 
+The [Canadian Society for the Study of Comics](http://comics-scholars.com/wp/) invites papers on comics in the post-secondary classroom. They are looking for focused arguments (750-1000 words), informed by classroom experiences, for particular comics that should be taught and studied in the 2020s. These papers will be collected and published on the Society's website. There may also be a conference panel on the topic. Intrigued, you decide to submit a paper. 
 
-Before you proceed, you should pick a comic you believe should be taught in the post-secondary classroom of the 2020s. (Again, perhaps it's the comic you shared with us on April 12th.) Since the Society invites arguments from previous classroom learning experiences, you may want to conduct something like a "gap analysis" of this syllabus. Where's the bias? What's taken for granted? Who and what are missing? Who and what should be included? Under what assumptions should they be included, and to what potential effects? Addressing such question should make for a compelling argument for the comic you select. Also, for the purposes of this prompt, you can assume readers of the Society's website are students and faculty members who are familiar with comics. They will know terms commonly used in the composition and study of comics, and they may be familiar with the comic you select. You do not, by the way, need to select a comic published in America, written by someone in America, or illustrated by someone in America. We are, however, asking you to review what you learned in 425 before making your argument for another comic. Thank you for understanding.  
+Before you proceed, you should pick a comic you believe should be taught in the post-secondary classroom of the 2020s. (Again, perhaps it's the comic you shared with us on April 12th.) Since the Society invites arguments from previous classroom learning experiences, you may want to conduct something like a "gap analysis" of this syllabus. Where's the bias? What's taken for granted? Who and what are missing? Who and what should be included? Under what assumptions should they be included, and to what potential effects? Addressing such questions should make for a compelling argument for the comic you select. Also, for the purposes of this prompt, you can assume readers of the Society's website are students and faculty members who are familiar with comics. They will know terms commonly used in the composition and study of comics, and they may be familiar with the comic you select. You do not, by the way, need to select a comic published in America, written by someone in America, or illustrated by someone in America. We are, however, asking you to review what you learned in 425 before making your argument for another comic. Thank you for understanding.  
 
 Your argument (750-1000 words) should:
 
 * Review your experiences learning about comics in English 425 and describe, if only briefly, what *each* of the five assigned comics contributed to your learning. The five comics are *Ms. Marvel*, *Destroyer*, *Monstress*, *Daytripper*, and *Special Exits*, and your descriptions of the contributions should be concise and specific. Here, you may want to review the syllabus and recall our conversations on March 29th.  
-* Based on these experiences, make a convincing argument for why a comic of your choice should be taught and studied in the 2020s post-secondary classroom. The argument should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to the study of comics today. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. It usually builds on existing scholarship, too: "While Sayers argues X, he assumes Y and tends to ignore Z. This analysis addresses that gap by refraining from Y and attending to Z." As you make your argument, you might want to recall our conversations on March 29th. 
+* Based on these experiences, make a convincing argument for why a comic of your choice should be taught and studied in the post-secondary classroom of the 2020s. The argument should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to the study of comics today. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. It usually builds on existing scholarship, too: "While Sayers argues X, he assumes Y and tends to ignore Z. This analysis addresses that gap by refraining from Y and attending to Z." As you make your argument, you might want to recall our conversations on March 29th. 
 * Draw the reader's attention to specific panels in the comic you selected. These panels may be included as figures in the analysis. 
-* Engage *one* scholarly publication in comics studies. We recommend selecting a journal article, book chapter, or recorded conference talk that we already discussed this term. This way, you don't need to do extra research if you're pressed for time.) Here, you may want to recall our discussions of work by Julian Chambliss, Hillary Chute, Erik Loyer, and Scott McCloud, for example. 
+* Engage *one* scholarly publication in comics studies. We recommend selecting a journal article, book chapter, or recorded conference talk that we already discussed this term. (This way, you don't need to do extra research if you're overwhelmed or pressed for time.) Here, you may want to recall our discussions of work by Julian Chambliss, Hillary Chute, Erik Loyer, and Scott McCloud, for example. 
 * Use MLA style (8th edition) and follow the conventions of an academic argument.  
 
 Once you've written your argument (750-1000 words), please submit it and any images you wish to include as an attachment to the "Prompt 4" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your argument: 
 
-1. The analysis is grounded in details, including specific panels, from the comic you selected. It also draws from one scholarly publication in comics studies. 
+1. The analysis is grounded in details, including specific panels from the comic you selected. It also draws from one scholarly publication in comics studies, one which we may have discussed in class.
 2. The analysis draws from your own classroom learning experiences in 425 and describes concisely what *each* of the five comics assigned in this course contributed to your learning about comics and contemporary America. 
-3. The analysis communicates a clear, concise, and convincing argument for why a comic of your choice should be taught and studied in the 2020s post-secondary classroom. The argument is contestable, grounded in detail, interpretative, and relevant to the study of comics today. It should answer the "so what?" (or "why does this matter?") question of criticism. 
-4. The analysis is aware of its audience and venue. It is written for the Canadian Society for the Study of Comics, whose readers are mostly students and faculty in the Humanities. It follows the conventions of an academic argument and uses MLA style, and it assumes its readers are familiar with the study and craft of comics. 
+3. The analysis communicates a clear, concise, and convincing argument for why a comic of your choice should be taught and studied in the post-secondary classroom of the 2020s. The argument is contestable, grounded in detail, interpretative, and relevant to the study of comics today. It should answer the "so what?" (or "why does this matter?") question of criticism. 
+4. The analysis is aware of its audience and venue. It is written for the Canadian Society for the Study of Comics, whose readers are mostly students and faculty in the Humanities. It follows the conventions of an academic argument and uses MLA style, and it assumes its readers are familiar with the study and craft of comics. It does not assume we (Faith and Jentery) are the only members of its audience.  
 5. The analysis demonstrates you read and studied *Ms. Marvel*, *Destroyer*, *Monstress*, *Daytripper*, and *Special Exits*, and it applies what you learned from class lectures, discussions, and exercises on March 8th, 15th, 22nd, and 29th as well as April 12th.   
 
-You should *not* circulate your argument publicly or online (beyond the course Brightspace). 
+You should *not* circulate your argument publicly or online (beyond the course Brightspace). If, based on your argument, we (Faith and Jentery) decide to adopt the comic you selected for teaching comics in the future, then we will credit you in our course materials and/or syllabus.
 
 Submit your response now (link coming soon).
 
