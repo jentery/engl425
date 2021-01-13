@@ -60,7 +60,7 @@ We are asking you to respond to four [prompts](#prompts) this term, and we'll in
 
 There are no quizzes, exams, discussion forums, or student presentations in this course. There is no participation mark, either. Both of us will mark your responses to the prompts and provide feedback on your work. 
 
-All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. (See submission links in the [schedule](#schedule).) We cannot accept submissions by email. 
+All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. We cannot accept submissions by email. 
 
 Please note that each [prompt](#prompts) affords two ways to respond to it, and not all responses are academic essays. You should pick *one* of the two options in the prompt and then consider your audience as well as the assignment's aims (mentioned in the prompt) as you respond. We'll use the aims as guides to mark your responses.
 
@@ -169,7 +169,7 @@ This week's step should consume no more than *five hours* of your time outside o
 
 Before our meeting on Monday, February 1st, please: 
 
-1. Respond to [Prompt 1](#prompt-1) and submit your response via Brightspace (link coming soon). 
+1. Respond to [Prompt 1](#prompt-1) and submit your response via Brightspace. 
 2. Email us any questions or concerns you have you about [Prompt 1](#prompt-1), especially if you would like us to clarify something in the prompt. 
 3. Come prepared to our meeting to talk about what the "popular" in popular media, fiction, or culture means to you.  
 
@@ -217,7 +217,7 @@ This week's step should consume no more than *five hours* of your time outside o
 
 By 5pm on Monday, February 22nd, please: 
 
-1. Respond to [Prompt 2](#prompt-2) and submit your response via Brightspace (link coming soon).
+1. Respond to [Prompt 2](#prompt-2) and submit your response via Brightspace.
 2. Email us any questions or concerns you have you about [Prompt 2](#prompt-2), especially if you would like us to clarify something in the prompt.
 3. Come prepared to our meeting to talk about your impressions of how comics intersect with art and literature.
 
@@ -278,7 +278,7 @@ This week's step should consume no more than *five hours* of your time outside o
 
 Before our meeting on March 15th, please: 
 
-1. Respond to [Prompt 3](#prompt-3) and submit your response via Brightspace (link coming soon). 
+1. Respond to [Prompt 3](#prompt-3) and submit your response via Brightspace. 
 2. Email us any questions or concerns you have you about [Prompt 3](#prompt-3), especially if you would like us to clarify something in the prompt. 
 3. Come prepared to our meeting to talk about your impressions of lettering and colour in comics. 
 
@@ -316,7 +316,7 @@ This week's step should consume no more than *four hours* of your time.
 Before our meeting on Monday, March 29th, please: 
 
 1. Review all the comics we read this term. What about them (or at least one of them) sticks with you? What have you learned most from them about comics and contemporary America? 
-2. Read "The Analysis of Culture" (1961), by Raymond Williams (link coming soon). Take notes on how Williams categorizes culture and then engages those categories. Note, too, his remarks about "selection" and "interpretation."
+2. Read "The Analysis of Culture" (1961), by Raymond Williams. Take notes on how Williams categorizes culture and then engages those categories. Note, too, his remarks about "selection" and "interpretation."
 
 During our meeting, we'll talk about comics and culture as: 
 
@@ -336,7 +336,7 @@ This week's step should consume no more than *four hours* of your time *if* you 
 
 Before our meeting on Monday, April 5th, you are welcome to: 
 
-1. Revise your response to [Prompt 1](#prompt-1), [Prompt 2](#prompt-2), *or* [Prompt 3](#prompt-3) and submit that revised response via Brightspace (link coming soon). This is optional, and you can revise only one response. If you do revise, then we recommend reviewing the prompt as well as the feedback we provided on your initial response. 
+1. Revise your response to [Prompt 1](#prompt-1), [Prompt 2](#prompt-2), *or* [Prompt 3](#prompt-3) and submit that revised response via Brightspace. This is optional, and you can revise only one response. If you do revise, then we recommend reviewing the prompt as well as the feedback we provided on your initial response. 
 2. Email us any questions or concerns you have you about the revision process. 
 
 During our meeting, we'll talk about: 
@@ -366,7 +366,7 @@ It's the examination period at UVic, so we don't have a meeting this week.
 
 For your final in this course, please: 
 
-1. Respond to [Prompt 4](#prompt-4) and submit your response via Brightspace (link coming soon) by *Monday, April 19th at 5pm*. 
+1. Respond to [Prompt 4](#prompt-4) and submit your response via Brightspace by *Monday, April 19th at 5pm*. 
 2. Email us any questions or concerns you have you about [Prompt 4](#prompt-4), especially if you would like us to clarify something in the prompt. 
 
 This week's step (the final) should consume no more than *seven hours* of your time.
@@ -389,7 +389,7 @@ But we will only use Brightspace for the following, most of which may arrive as 
 
 1. Class announcements (one each week). 
 2. Circulating video recordings of Zoom meetings (as part of the weekly class announcement). 
-3. Accessing your responses to the four [prompts](#prompts). Links to submit those four assignments are available in the [schedule](#schedule). This means you'll need to log into Brightspace at least four times (once per submission) this term.
+3. Accessing your responses to the four [prompts](#prompts). This means you'll need to log into Brightspace at least four times (once per submission) this term.
 4. Returning feedback and your marks. 
 
 If you cannot access the course Brightspace, then please let us know. 
@@ -468,7 +468,7 @@ Here are the four prompts for this course. Please note that each prompt has two 
 
 ### Prompt 1 
 
-*A response to this prompt is due via Brightspace (link coming soon) by 11:30am on Monday, February 1st.*
+*A response to this prompt is due via Brightspace by 11:30am on Monday, February 1st.*
 
 At this point in the course, you have read *Ms. Marvel*, Vol. 1: *No Normal*, done your best to define "comics," studied superhero comics as a genre, and experimented with amplification to craft a cartoon. Now it's time to share some of what you've learned with other students.  
 
@@ -490,7 +490,7 @@ If you have never annotated a comic, then check out [these wonderful examples](h
 
 Once you've annotated a page of *Ms. Marvel*, please convert it into an image file (digitize it, if need be) and include it alongside 100 or so words detailing why you annotated the page the way you did, and how you considered your audience (students in Literary Studies 12) along the way. Ensure your image file is relatively easy to read on a screen. 
 
-To submit your response, please attach your annotations and 100-word description as files to the "Prompt 1" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+To submit your response, please attach your annotations and 100-word description as files to the "Prompt 1" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your annotations and 100-word description: 
 
@@ -500,8 +500,6 @@ We will use the following criteria and [UVic's official grading system](https://
 4. The annotations and description demonstrate you read and studied *Ms. Marvel*, Vol. 1, and they apply what you learned from class lectures, discussions, and exercises on January 18th and 25th. 
 
 You should *not* circulate your annotated comics publicly or online (beyond the course Brightspace). 
-
-Submit your response now (link coming soon).
 
 *** 
 
@@ -520,7 +518,7 @@ Now write a short plan (500 words plus at least three panels from *Ms. Marvel*) 
 
 Your plan should be written for a 30-minute workshop, as if you are teaching and communicating with Literary Studies 12 students. It is not a speech or a script you'd read aloud. It is instead a blueprint or sketch for a 30-minute activity and discussion. Perhaps your examples from *Ms. Marvel* are treated as slides, projections, or handouts, and maybe you include specific questions you'd ask students, giving them time to respond verbally or in writing. If, for the sake of learning and instruction, you wish to manipulate the examples (for instance, remove text or images from a panel of *Ms. Marvel*), and you know how, then you are welcome to do so. We also recommend practicing or role-playing your plan (if only by yourself) before you submit it. One key thing for any workshop plan is to leave room for flexibility and engagement. Another is to ensure the goals or aims are clear. This particular plan can assume whatever shape or format you prefer (an outline, a series of paragraphs, or slides with notes for the instructor, for instance); however, it should address the three learning goals listed above, and it should be written for an audience of Grade 12 students.  
 
-Once you've selected your examples (again, at least three panels) from *Ms. Marvel* and written your plan (500 words) for a 30-minute workshop, please submit them as attachments to the "Prompt 1" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, PPTX, GSLIDES, JPG, and/or PNG files for your images and text. 
+Once you've selected your examples (again, at least three panels) from *Ms. Marvel* and written your plan (500 words) for a 30-minute workshop, please submit them as attachments to the "Prompt 1" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, PPTX, GSLIDES, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your workshop plan: 
 
@@ -531,13 +529,11 @@ We will use the following criteria and [UVic's official grading system](https://
 
 You should *not* circulate your workshop plan publicly or online (beyond the course Brightspace). 
 
-Submit your response now (link coming soon).
-
 ***
 
 ### Prompt 2 
 
-*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, February 22nd.* Note that 5pm is *after* our meeting. We're giving you a bit more time than usual because you're returning to class this week from reading break. 
+*A response to this prompt is due via Brightspace by 5pm on Monday, February 22nd.* Note that 5pm is *after* our meeting. We're giving you a bit more time than usual because you're returning to class this week from reading break. 
 
 Since responding to the first prompt, you've read Victor LaValle's *Destroyer*, drawn a character from memory, experimented with transitions between panels, discussed what's implied by the "popular" in popular culture, and studied adaptation, race, and gender in comics. This prompt asks you to spend some time writing about LaValle's *Destroyer* in particular and to connect it with some of the conversations we've had since January.    
 
@@ -563,7 +559,7 @@ The letter should:
 
 This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s last page as it relates to another moment in the book. You are welcome to include page images in your letter or to simply point us to parts of the book via page numbers or ebook locations.  
 
-Once you've written your letter to us (500-750 words), please submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your letter to us (500-750 words), please submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
 
@@ -573,8 +569,6 @@ We will use the following criteria and [UVic's official grading system](https://
 4. The letter demonstrates you read and studied Victor LaValle's *Destroyer*, and it applies what you learned from class lectures, discussions, and exercises on February 1st and 8th. 
 
 You should *not* circulate your letter publicly or online (beyond the course Brightspace). 
-
-Submit your response now (link coming soon).
 
 ***
 
@@ -598,7 +592,7 @@ The letter should:
 
 This letter is *not* an essay. You don't need an introduction, thesis, or conclusion, and you don't need to follow the usual five-paragraph structure. You can jump right into the conversation with us and walk us through your take on *Destroyer*'s relation to popular culture. You are welcome to include page images in your letter or to simply point us to parts of the book via page numbers or ebook locations.
 
-Once you've written your letter to us (500-750 words), please submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your letter to us (500-750 words), please submit it and any images you wish to include as an attachment to the "Prompt 2" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your letter: 
 
@@ -609,13 +603,11 @@ We will use the following criteria and [UVic's official grading system](https://
 
 You should *not* circulate your letter publicly or online (beyond the course Brightspace). 
 
-Submit your response now (link coming soon).
-
 *** 
 
 ### Prompt 3 
 
-*A response to this prompt is due via Brightspace (link coming soon) by 11:30am on Monday, March 15th.*
+*A response to this prompt is due via Brightspace by 11:30am on Monday, March 15th.*
 
 Since responding to the second prompt, you've read the first volume of *Monstress*, changed the word-image relation in a panel, also changed the "shot" of a panel, studied the genres of horror and fantasy comics, and considered the relationship between art, literature, and comics. This prompt asks you to spend some time writing about *Monstress* in particular and to connect it with some of the conversations we've had since January. 
 
@@ -641,7 +633,7 @@ Your review (750 words) should:
 
 You are welcome to include an image or two of *Monstress* in your review, if you wish. 
 
-Once you've written your review (750 words), please submit it and any images you wish to include as an attachment to the "Prompt 3" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your review (750 words), please submit it and any images you wish to include as an attachment to the "Prompt 3" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your review: 
 
@@ -652,8 +644,6 @@ We will use the following criteria and [UVic's official grading system](https://
 5. The review demonstrates you read and studied *Monstress*, Vol. 1: *Awakening*, and it applies what you learned from class lectures, discussions, and exercises on February 22nd and March 1st in particular. 
 
 You should *not* circulate your review publicly or online (beyond the course Brightspace). 
-
-Submit your response now (link coming soon).
 
 ***
 
@@ -677,7 +667,7 @@ Your review (five minutes) should:
 
 You are welcome to include panels and pages of *Monstress* in your video, if you wish. 
 
-Once you've produced your audio or video review (five minutes), please submit it as an attachment to the "Prompt 3" assignment in Brightspace (link coming soon). MP3, WAV, MP4, MOV, and AVI formats are fine. If you relied on a script or notes for your audio or video review, then you may attach those as well in a PDF, DOCX, RTF, HTML, JPG, or PNG file.
+Once you've produced your audio or video review (five minutes), please submit it as an attachment to the "Prompt 3" assignment in Brightspace. MP3, WAV, MP4, MOV, and AVI formats are fine. If you relied on a script or notes for your audio or video review, then you may attach those as well in a PDF, DOCX, RTF, HTML, JPG, or PNG file.
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your review: 
 
@@ -689,13 +679,11 @@ We will use the following criteria and [UVic's official grading system](https://
 
 You should *not* circulate your review publicly or online (beyond the course Brightspace). 
 
-Submit your response now (link coming soon).
-
 ***
 
 ### Prompt 4 
 
-*A response to this prompt is due via Brightspace (link coming soon) by 5pm on Monday, April 19th. Extensions until Thursday, April 22nd at 5pm will be available upon request by email.*
+*A response to this prompt is due via Brightspace by 5pm on Monday, April 19th. Extensions until Thursday, April 22nd at 5pm will be available upon request by email.*
 
 Since responding to the third prompt, you've read *Daytripper* and *Special Exits*, studied time as both a theme and device in comics, surveyed graphic memoirs and metacomics, changed the lettering of a panel, sketched yourself as a character, and analyzed the various meanings or dimensions of culture in the context of comics and contemporary America. You also selected and shared a comic with the class. This final prompt asks you to either conduct a comparative analysis of *Daytripper* and *Special Exits* or argue for the inclusion of another comic in this syllabus.   
 
@@ -717,7 +705,7 @@ Your argument (750-1000 words) should:
 4. Make a convincing argument for why people (or least people who study comics) should care about how *Daytripper* and *Special Exits* treat time as both a theme and a device. The argument should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to the study of comics today. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. It usually builds on existing scholarship, too: "While Sayers argues X, he assumes Y and tends to ignore Z. This analysis addresses that gap by refraining from Y and attending to Z." As you make your argument, you might want to recall our conversations on March 29th.
 5. Use MLA style (8th edition) and follow the conventions of an academic argument.  
 
-Once you've written your argument (750-1000 words), please submit it and any images you wish to include as an attachment to the "Prompt 4" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your argument (750-1000 words), please submit it and any images you wish to include as an attachment to the "Prompt 4" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your argument: 
 
@@ -727,9 +715,7 @@ We will use the following criteria and [UVic's official grading system](https://
 4. The analysis is aware of its audience and venue. It is written for a Canadian undergraduate journal in literary studies, whose readers are mostly students and faculty in the Humanities. It follows the conventions of an academic argument and uses MLA style, and it assumes its readers are familiar with either *Daytripper* and *Secret Exits* in particular or comics in general. It does not assume we (Faith and Jentery) are the only members of its audience. 
 5. The analysis demonstrates you read and studied *Daytripper* and *Special Exits*, and it applies what you learned from class lectures, discussions, and exercises on March 8th, 15th, 22nd, and 29th.  
 
-You should *not* circulate your argument publicly or online (beyond the course Brightspace). 
-
-Submit your response now (link coming soon).
+You should *not* circulate your argument publicly or online (beyond the course Brightspace).
 
 ***
 
@@ -749,7 +735,7 @@ Your argument (750-1000 words) should:
 4. Engage *one* scholarly publication in comics studies. We recommend selecting a journal article, book chapter, or recorded conference talk that we already discussed this term. (This way, you don't need to do extra research if you're overwhelmed or pressed for time.) Here, you may want to recall our discussions of work by Julian Chambliss, Hillary Chute, Erik Loyer, and Scott McCloud, for example.
 5. Use MLA style (8th edition) and follow the conventions of an academic argument.  
 
-Once you've written your argument (750-1000 words), please submit it and any images you wish to include as an attachment to the "Prompt 4" assignment in Brightspace (link coming soon). Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
+Once you've written your argument (750-1000 words), please submit it and any images you wish to include as an attachment to the "Prompt 4" assignment in Brightspace. Feel free to attach PDF, DOCX, RTF, HTML, JPG, and/or PNG files for your images and text. 
 
 We will use the following criteria and [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your argument: 
 
@@ -760,8 +746,6 @@ We will use the following criteria and [UVic's official grading system](https://
 5. The analysis demonstrates you read and studied *Ms. Marvel*, *Destroyer*, *Monstress*, *Daytripper*, and *Special Exits*, and it applies what you learned from class lectures, discussions, and exercises on March 8th, 15th, 22nd, and 29th as well as April 12th.   
 
 You should *not* circulate your argument publicly or online (beyond the course Brightspace). If, based on your argument, we (Faith and Jentery) decide to adopt the comic you selected for teaching comics in the future, then we will credit you in our course materials and/or syllabus.
-
-Submit your response now (link coming soon).
 
 ***
 
