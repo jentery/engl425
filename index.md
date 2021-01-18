@@ -194,7 +194,7 @@ Before our meeting on Monday, February 8th, please: 
 During our meeting, we'll talk about: 
 
 1. How comics adapt other media and formats, and vice versa (novel-to-comic and comic-to-film, for instance).
-2. The "medium specificity" of comics, such as how they are drawn and rely on grids and "still" panels. 
+2. The "medium specificity" of comics, such as how they are drawn and rely on grids and "still" panels. What happens when comics are "remediated"? Or when they remediate other media? 
 3. The intersections of adaptation with race and gender, including histories of stereotypes, racism, and heteropatriarchy in comics. We'll look at John Jennings's work here. 
 4. What Victor LaValle's *Destroyer* is doing politically and aesthetically with adaptation and comics in the 21st century. (We'll touch on *Ms. Marvel*, too, if we have time.)
 5. The particulars of *Destroyer*'s relationship with *Frankenstein; or, The Modern Prometheus*. 
@@ -244,7 +244,7 @@ During our meeting, we'll talk about:
 1. Horror as a genre of comics, including its depictions of monstrosity and relationship to dread. We may touch on LaValle's *Destroyer* here. 
 2. Fantasy as a genre of comics, including its use of worldbuilding and conjecture. We may touch on Tillie Walden's *On a Sunbeam* here as well as Sloane Leong's *Prism Stalker*. 
 3. What *Monstress*, its matriarchy, and its alternate history (1900s Asia) are doing politically and aesthetically in the context of genre and American culture.
-4. How *Monstress* also draws from manga, Westerns, and war comics. 
+4. How *Monstress* also draws from manga, Westerns, and war comics. We'll touch upon the various types of perspective (one-, two-, and three-point) in comics as we go. 
 
 Our exercise for this step (conducted during our meeting on the 1st): Change the "shot" (perspective or camera) of a panel by "zooming" in on it and also "zooming" out on it. This should result in two new panels, both of which change the framing of the original panel. How does zooming shape feelings of horror or a sense of fantasy? (Inspired by Eric Hayot and Patrick Welch.)
 
